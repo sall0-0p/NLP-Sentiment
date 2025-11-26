@@ -1,0 +1,201 @@
+opinion_id,product_name,sentiment,opinion,score,date
+1,Minecraft,positive,Amazing game mechanics and storytelling. Worth every penny.,5,1/16/2025
+2,DOOM Eternal,positive,The game exceeded my expectations in every way.,5,3/16/2025
+3,Ori and the Will of the Wisps,positive,Absolutely loved this game! The gameplay and graphics are top-notch.,4,1/25/2025
+4,Slay the Spire,positive,Amazing game mechanics and storytelling. Worth every penny.,5,11/14/2025
+5,Resident Evil Village,positive,The game exceeded my expectations in every way.,4,3/20/2025
+6,DOOM Eternal,positive,Brilliant design and very engaging gameplay.,5,9/29/2025
+7,Fall Guys,positive,Fantastic visuals and smooth controls. Truly immersive.,4,8/25/2025
+8,Ori and the Will of the Wisps,positive,Superb soundtrack and atmosphere.,5,1/13/2025
+9,Terraria,positive,The game exceeded my expectations in every way.,5,9/6/2025
+10,GTA V,positive,A must-play for fans of the genre.,5,9/12/2025
+11,Dead by Daylight,positive,Amazing game mechanics and storytelling. Worth every penny.,4,1/19/2025
+12,GTA V,positive,Highly enjoyable with great replay value.,4,3/20/2025
+13,Rust,positive,Incredibly fun and addictive. Can't put it down!,5,1/8/2025
+14,Dead by Daylight,positive,Absolutely loved this game! The gameplay and graphics are top-notch.,5,2/8/2025
+15,Minecraft,positive,A must-play for fans of the genre.,4,2/13/2025
+16,Terraria,positive,Fantastic visuals and smooth controls. Truly immersive.,5,1/5/2025
+17,Subnautica,positive,Superb soundtrack and atmosphere.,4,5/27/2025
+18,Terraria,positive,Superb soundtrack and atmosphere.,4,8/23/2025
+19,Ori and the Will of the Wisps,positive,Superb soundtrack and atmosphere.,5,11/1/2025
+20,Ori and the Will of the Wisps,positive,Absolutely loved this game! The gameplay and graphics are top-notch.,5,2/2/2025
+21,Minecraft,positive,Incredibly fun and addictive. Can't put it down!,4,4/20/2025
+22,DOOM Eternal,positive,Incredibly fun and addictive. Can't put it down!,5,4/7/2025
+23,Dark Souls III,positive,A must-play for fans of the genre.,4,5/6/2025
+24,Slay the Spire,positive,One of the best experiences I've had in gaming. Highly recommend!,5,11/11/2025
+25,Among Us,positive,Superb soundtrack and atmosphere.,4,4/29/2025
+26,Ori and the Will of the Wisps,positive,Absolutely loved this game! The gameplay and graphics are top-notch.,4,3/10/2025
+27,Subnautica,positive,Absolutely loved this game! The gameplay and graphics are top-notch.,4,2/8/2025
+28,Hades,positive,Absolutely loved this game! The gameplay and graphics are top-notch.,4,8/2/2025
+29,GTA V,positive,A must-play for fans of the genre.,5,8/22/2025
+30,Rust,positive,One of the best experiences I've had in gaming. Highly recommend!,4,2/5/2025
+31,DOOM Eternal,positive,Brilliant design and very engaging gameplay.,4,3/17/2025
+32,Valheim,positive,The game exceeded my expectations in every way.,4,4/4/2025
+33,Subnautica,positive,Fantastic visuals and smooth controls. Truly immersive.,5,7/16/2025
+34,Resident Evil Village,positive,Absolutely loved this game! The gameplay and graphics are top-notch.,4,9/18/2025
+35,Ori and the Will of the Wisps,positive,Amazing game mechanics and storytelling. Worth every penny.,5,10/21/2025
+36,DOOM Eternal,positive,One of the best experiences I've had in gaming. Highly recommend!,5,12/31/2024
+37,Elden Ring,positive,Superb soundtrack and atmosphere.,5,10/30/2025
+38,Fall Guys,positive,A must-play for fans of the genre.,5,9/3/2025
+39,GTA V,positive,Incredibly fun and addictive. Can't put it down!,4,5/1/2025
+40,Terraria,positive,Incredibly fun and addictive. Can't put it down!,4,6/1/2025
+41,The Witcher 3,positive,Superb soundtrack and atmosphere.,5,5/5/2025
+42,GTA V,positive,One of the best experiences I've had in gaming. Highly recommend!,5,6/29/2025
+43,DOOM Eternal,positive,The game exceeded my expectations in every way.,4,10/9/2025
+44,Valheim,positive,Fantastic visuals and smooth controls. Truly immersive.,4,5/17/2025
+45,Among Us,positive,Superb soundtrack and atmosphere.,5,4/7/2025
+46,Slay the Spire,positive,Amazing game mechanics and storytelling. Worth every penny.,5,12/16/2024
+47,Minecraft,positive,Amazing game mechanics and storytelling. Worth every penny.,4,4/5/2025
+48,Minecraft,positive,A must-play for fans of the genre.,5,12/6/2024
+49,Slay the Spire,positive,Fantastic visuals and smooth controls. Truly immersive.,5,6/11/2025
+50,DOOM Eternal,positive,One of the best experiences I've had in gaming. Highly recommend!,5,3/13/2025
+51,Dead by Daylight,positive,Absolutely loved this game! The gameplay and graphics are top-notch.,5,6/3/2025
+52,Hades,positive,Superb soundtrack and atmosphere.,5,7/23/2025
+53,Among Us,positive,The game exceeded my expectations in every way.,5,10/1/2025
+54,Cyberpunk 2077,positive,Highly enjoyable with great replay value.,5,12/28/2024
+55,Ori and the Will of the Wisps,positive,Brilliant design and very engaging gameplay.,5,7/18/2025
+56,Terraria,positive,A must-play for fans of the genre.,4,6/10/2025
+57,Slay the Spire,positive,Superb soundtrack and atmosphere.,5,2/19/2025
+58,Hades,positive,One of the best experiences I've had in gaming. Highly recommend!,4,6/24/2025
+59,GTA V,positive,The game exceeded my expectations in every way.,5,11/8/2025
+60,Subnautica,positive,Highly enjoyable with great replay value.,5,12/20/2024
+61,Fall Guys,positive,Amazing game mechanics and storytelling. Worth every penny.,5,11/14/2025
+62,Elden Ring,positive,Absolutely loved this game! The gameplay and graphics are top-notch.,5,8/1/2025
+63,Resident Evil Village,positive,A must-play for fans of the genre.,4,7/30/2025
+64,Slay the Spire,positive,Fantastic visuals and smooth controls. Truly immersive.,5,12/29/2024
+65,Slay the Spire,positive,Superb soundtrack and atmosphere.,5,7/2/2025
+66,Factorio,positive,Incredibly fun and addictive. Can't put it down!,5,12/12/2024
+67,Subnautica,positive,One of the best experiences I've had in gaming. Highly recommend!,5,7/11/2025
+68,DOOM Eternal,positive,Highly enjoyable with great replay value.,5,12/7/2024
+69,Dead by Daylight,positive,Amazing game mechanics and storytelling. Worth every penny.,5,5/8/2025
+70,Among Us,positive,One of the best experiences I've had in gaming. Highly recommend!,4,6/10/2025
+71,Fall Guys,positive,Fantastic visuals and smooth controls. Truly immersive.,5,12/14/2024
+72,Dark Souls III,positive,A must-play for fans of the genre.,5,7/22/2025
+73,Stardew Valley,positive,Highly enjoyable with great replay value.,4,6/1/2025
+74,Dark Souls III,positive,The game exceeded my expectations in every way.,5,8/23/2025
+75,Hades,positive,Highly enjoyable with great replay value.,5,6/21/2025
+76,Ori and the Will of the Wisps,positive,Brilliant design and very engaging gameplay.,5,1/31/2025
+77,Fall Guys,positive,Highly enjoyable with great replay value.,5,12/13/2024
+78,Elden Ring,positive,Fantastic visuals and smooth controls. Truly immersive.,5,6/1/2025
+79,Among Us,positive,Fantastic visuals and smooth controls. Truly immersive.,4,10/1/2025
+80,Factorio,positive,A must-play for fans of the genre.,4,9/14/2025
+81,Rust,positive,Brilliant design and very engaging gameplay.,5,9/6/2025
+82,Terraria,positive,The game exceeded my expectations in every way.,5,2/24/2025
+83,GTA V,positive,Brilliant design and very engaging gameplay.,5,5/16/2025
+84,Terraria,positive,Highly enjoyable with great replay value.,5,9/26/2025
+85,The Witcher 3,positive,Highly enjoyable with great replay value.,4,12/4/2024
+86,GTA V,positive,Amazing game mechanics and storytelling. Worth every penny.,5,7/3/2025
+87,Cyberpunk 2077,positive,The game exceeded my expectations in every way.,5,8/13/2025
+88,The Witcher 3,positive,Brilliant design and very engaging gameplay.,4,4/13/2025
+89,Ori and the Will of the Wisps,positive,Highly enjoyable with great replay value.,4,4/23/2025
+90,Factorio,positive,Superb soundtrack and atmosphere.,4,6/24/2025
+91,DOOM Eternal,positive,One of the best experiences I've had in gaming. Highly recommend!,5,9/28/2025
+92,Subnautica,positive,Amazing game mechanics and storytelling. Worth every penny.,5,1/30/2025
+93,Slay the Spire,positive,Highly enjoyable with great replay value.,5,12/15/2024
+94,Terraria,positive,Amazing game mechanics and storytelling. Worth every penny.,4,6/29/2025
+95,Dark Souls III,positive,Amazing game mechanics and storytelling. Worth every penny.,5,10/16/2025
+96,DOOM Eternal,positive,Superb soundtrack and atmosphere.,5,4/13/2025
+97,Valheim,positive,Superb soundtrack and atmosphere.,4,11/19/2025
+98,Dark Souls III,positive,Highly enjoyable with great replay value.,5,10/15/2025
+99,Ori and the Will of the Wisps,positive,Brilliant design and very engaging gameplay.,4,3/11/2025
+100,The Witcher 3,positive,A must-play for fans of the genre.,5,4/4/2025
+101,Ori and the Will of the Wisps,negative,Uninspired and repetitive gameplay.,2,3/30/2025
+102,Hades,negative,Disappointing experience. The gameplay feels unfinished.,1,11/29/2024
+103,Dead by Daylight,negative,Too many glitches and crashes ruin the experience.,2,6/30/2025
+104,Cyberpunk 2077,negative,Buggy and frustrating. Needs major fixes.,1,10/28/2025
+105,Slay the Spire,negative,Uninspired and repetitive gameplay.,2,7/14/2025
+106,Minecraft,negative,Uninspired and repetitive gameplay.,2,3/3/2025
+107,Valheim,negative,Poor graphics and clunky controls ruin the fun.,2,8/16/2025
+108,Hades,negative,Gameplay is slow and boring. Would not recommend.,2,7/15/2025
+109,Fall Guys,negative,Too many glitches and crashes ruin the experience.,1,6/17/2025
+110,DOOM Eternal,negative,Poor graphics and clunky controls ruin the fun.,1,3/10/2025
+111,Minecraft,negative,Too many glitches and crashes ruin the experience.,1,9/12/2025
+112,Minecraft,negative,I expected much more from this game.,1,11/21/2025
+113,Subnautica,negative,Uninspired and repetitive gameplay.,1,9/3/2025
+114,DOOM Eternal,negative,Disappointing experience. The gameplay feels unfinished.,1,7/7/2025
+115,Terraria,negative,The story is weak and characters are forgettable.,1,3/7/2025
+116,Among Us,negative,Disappointing experience. The gameplay feels unfinished.,2,10/31/2025
+117,Rust,negative,Too many glitches and crashes ruin the experience.,2,12/15/2024
+118,Factorio,negative,Uninspired and repetitive gameplay.,2,10/11/2025
+119,Stardew Valley,negative,Gameplay is slow and boring. Would not recommend.,1,9/18/2025
+120,GTA V,negative,Gameplay is slow and boring. Would not recommend.,1,10/26/2025
+121,Cyberpunk 2077,negative,Disappointing experience. The gameplay feels unfinished.,2,1/17/2025
+122,Valheim,negative,Server issues make it almost unplayable.,2,10/9/2025
+123,The Witcher 3,negative,The story is weak and characters are forgettable.,1,2/15/2025
+124,Factorio,negative,Poor graphics and clunky controls ruin the fun.,2,4/6/2025
+125,Rust,negative,Disappointing experience. The gameplay feels unfinished.,2,3/9/2025
+126,Minecraft,negative,Uninspired and repetitive gameplay.,2,8/8/2025
+127,GTA V,negative,Server issues make it almost unplayable.,2,3/30/2025
+128,Stardew Valley,negative,Disappointing experience. The gameplay feels unfinished.,2,7/28/2025
+129,Rust,negative,Disappointing experience. The gameplay feels unfinished.,1,4/30/2025
+130,Dead by Daylight,negative,Too many glitches and crashes ruin the experience.,2,9/11/2025
+131,Ori and the Will of the Wisps,negative,The story is weak and characters are forgettable.,1,5/29/2025
+132,Dark Souls III,negative,Poor graphics and clunky controls ruin the fun.,2,7/31/2025
+133,Resident Evil Village,negative,Disappointing experience. The gameplay feels unfinished.,2,8/7/2025
+134,Dark Souls III,negative,Buggy and frustrating. Needs major fixes.,1,6/15/2025
+135,Valheim,negative,I expected much more from this game.,2,11/23/2025
+136,Hades,negative,Too many glitches and crashes ruin the experience.,1,5/12/2025
+137,GTA V,negative,Server issues make it almost unplayable.,2,5/4/2025
+138,Subnautica,negative,Too many glitches and crashes ruin the experience.,1,7/25/2025
+139,The Witcher 3,negative,Disappointing experience. The gameplay feels unfinished.,1,5/22/2025
+140,Elden Ring,negative,Buggy and frustrating. Needs major fixes.,2,11/3/2025
+141,Cyberpunk 2077,negative,Too many glitches and crashes ruin the experience.,2,1/21/2025
+142,Minecraft,negative,Server issues make it almost unplayable.,1,3/17/2025
+143,Hades,negative,Gameplay is slow and boring. Would not recommend.,1,5/17/2025
+144,DOOM Eternal,negative,Not worth the price. Lacks content and depth.,2,8/2/2025
+145,Hades,negative,Uninspired and repetitive gameplay.,2,7/31/2025
+146,Slay the Spire,negative,Disappointing experience. The gameplay feels unfinished.,2,5/3/2025
+147,Resident Evil Village,negative,Gameplay is slow and boring. Would not recommend.,1,8/11/2025
+148,Minecraft,negative,Disappointing experience. The gameplay feels unfinished.,1,6/16/2025
+149,Factorio,negative,Buggy and frustrating. Needs major fixes.,2,11/8/2025
+150,Slay the Spire,negative,Buggy and frustrating. Needs major fixes.,2,10/29/2025
+151,Elden Ring,negative,Disappointing experience. The gameplay feels unfinished.,2,2/11/2025
+152,Minecraft,negative,Not worth the price. Lacks content and depth.,1,5/11/2025
+153,Valheim,negative,Gameplay is slow and boring. Would not recommend.,1,8/2/2025
+154,The Witcher 3,negative,Gameplay is slow and boring. Would not recommend.,1,7/22/2025
+155,Rust,negative,Not worth the price. Lacks content and depth.,2,6/1/2025
+156,Hades,negative,Gameplay is slow and boring. Would not recommend.,2,12/24/2024
+157,Factorio,negative,Buggy and frustrating. Needs major fixes.,1,8/23/2025
+158,Valheim,negative,Uninspired and repetitive gameplay.,2,6/22/2025
+159,Valheim,negative,I expected much more from this game.,2,3/22/2025
+160,Ori and the Will of the Wisps,negative,Uninspired and repetitive gameplay.,1,8/4/2025
+161,Resident Evil Village,negative,Server issues make it almost unplayable.,2,7/20/2025
+162,Dead by Daylight,negative,Not worth the price. Lacks content and depth.,2,8/20/2025
+163,Factorio,negative,Uninspired and repetitive gameplay.,2,2/4/2025
+164,Dark Souls III,negative,Buggy and frustrating. Needs major fixes.,1,3/13/2025
+165,Dark Souls III,negative,Gameplay is slow and boring. Would not recommend.,2,3/21/2025
+166,Dark Souls III,negative,Not worth the price. Lacks content and depth.,1,11/18/2025
+167,The Witcher 3,negative,Server issues make it almost unplayable.,1,9/29/2025
+168,Elden Ring,negative,Too many glitches and crashes ruin the experience.,2,8/26/2025
+169,Factorio,negative,Server issues make it almost unplayable.,1,6/9/2025
+170,Elden Ring,negative,Too many glitches and crashes ruin the experience.,2,10/26/2025
+171,Dead by Daylight,negative,Buggy and frustrating. Needs major fixes.,2,10/21/2025
+172,Elden Ring,negative,Gameplay is slow and boring. Would not recommend.,2,9/6/2025
+173,The Witcher 3,negative,Not worth the price. Lacks content and depth.,2,2/2/2025
+174,Fall Guys,negative,Buggy and frustrating. Needs major fixes.,1,11/5/2025
+175,DOOM Eternal,negative,I expected much more from this game.,1,11/8/2025
+176,Cyberpunk 2077,negative,Poor graphics and clunky controls ruin the fun.,1,7/13/2025
+177,Subnautica,negative,Server issues make it almost unplayable.,1,4/17/2025
+178,Factorio,negative,Not worth the price. Lacks content and depth.,1,8/11/2025
+179,Ori and the Will of the Wisps,negative,The story is weak and characters are forgettable.,2,5/25/2025
+180,Terraria,negative,Too many glitches and crashes ruin the experience.,1,2/18/2025
+181,Among Us,negative,Poor graphics and clunky controls ruin the fun.,1,7/17/2025
+182,Subnautica,negative,Disappointing experience. The gameplay feels unfinished.,2,6/22/2025
+183,Ori and the Will of the Wisps,negative,Gameplay is slow and boring. Would not recommend.,2,7/27/2025
+184,Among Us,negative,Gameplay is slow and boring. Would not recommend.,2,2/7/2025
+185,Cyberpunk 2077,negative,Buggy and frustrating. Needs major fixes.,1,9/20/2025
+186,Resident Evil Village,negative,Gameplay is slow and boring. Would not recommend.,1,12/31/2024
+187,Dead by Daylight,negative,I expected much more from this game.,1,1/14/2025
+188,Dead by Daylight,negative,Disappointing experience. The gameplay feels unfinished.,2,4/16/2025
+189,Valheim,negative,Too many glitches and crashes ruin the experience.,1,11/10/2025
+190,Cyberpunk 2077,negative,Gameplay is slow and boring. Would not recommend.,2,10/25/2025
+191,Valheim,negative,Gameplay is slow and boring. Would not recommend.,1,8/3/2025
+192,Cyberpunk 2077,negative,I expected much more from this game.,2,8/11/2025
+193,The Witcher 3,negative,Disappointing experience. The gameplay feels unfinished.,2,11/22/2025
+194,Fall Guys,negative,Uninspired and repetitive gameplay.,2,3/30/2025
+195,DOOM Eternal,negative,Too many glitches and crashes ruin the experience.,2,2/21/2025
+196,Rust,negative,Server issues make it almost unplayable.,2,6/29/2025
+197,GTA V,negative,Gameplay is slow and boring. Would not recommend.,2,8/2/2025
+198,Resident Evil Village,negative,The story is weak and characters are forgettable.,1,5/22/2025
+199,Terraria,negative,Disappointing experience. The gameplay feels unfinished.,1,5/29/2025
+200,Valheim,negative,The story is weak and characters are forgettable.,1,4/29/2025

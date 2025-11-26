@@ -1,0 +1,201 @@
+Product Name,Opinion ID,Sentiment,Opinion,Score
+Mazda MX-5,1,positive,"It delivers a pure, lightweight driving experience.",5
+Mazda MX-5,2,positive,"The handling is exceptionally responsive.",5
+Mazda MX-5,3,positive,"It offers one of the best manual gearboxes in the industry.",5
+Mazda MX-5,4,positive,"The convertible top is easy to operate manually.",5
+Mazda MX-5,5,positive,"Its engaging driving feel makes every trip fun.",5
+Mazda MX-5,6,positive,"The car maintains outstanding reliability over time.",4
+Mazda MX-5,7,positive,"It is highly fuel-efficient for a sports car.",4
+Mazda MX-5,8,positive,"The steering provides excellent road feedback.",5
+Mazda MX-5,9,positive,"The car has a timeless, iconic roadster design.",5
+Mazda MX-5,10,positive,"Maintenance costs are relatively low.",4
+Mazda MX-5,11,positive,"Running costs are low compared to other sports cars.",4
+Mazda MX-5,12,positive,"The compact size makes it easy to park in cities.",4
+Mazda MX-5,13,positive,"The aftermarket modification community is huge.",5
+Mazda MX-5,14,positive,"It has a dedicated fanbase worldwide.",5
+Mazda MX-5,15,positive,"The driving position feels natural and sporty.",5
+Mazda MX-5,16,positive,"Its weight distribution is nearly perfect.",5
+Mazda MX-5,17,positive,"The roadster layout emphasizes fun over brute power.",5
+Mazda MX-5,18,positive,"It’s affordable compared to competing sports cars.",4
+Mazda MX-5,19,positive,"Soft-top and RF versions provide buyer flexibility.",4
+Mazda MX-5,20,positive,"Owners report high satisfaction and emotional attachment.",5
+Mazda MX-5,21,positive,"It retains resale value remarkably well.",4
+Mazda MX-5,22,positive,"The engine has a great, sporty character.",4
+Mazda MX-5,23,positive,"Mazda’s engineering philosophy shines in the chassis design.",5
+Mazda MX-5,24,positive,"The car encourages enthusiast driving habits.",5
+Mazda MX-5,25,positive,"It is a great entry-level sports car for new drivers.",4
+Mazda MX-5,26,positive,"Offers a very connected feel between driver and mechanics.",5
+Mazda MX-5,27,positive,"The suspension strikes a good balance between comfort and sportiness.",4
+Mazda MX-5,28,positive,"Owners often describe it as ‘smiles per mile’.",5
+Mazda MX-5,29,positive,"The minimalist interior enhances the driving focus.",4
+Mazda MX-5,30,positive,"It has great engine longevity with proper care.",4
+Mazda MX-5,31,positive,"Upkeep is cheap thanks to inexpensive parts.",4
+Mazda MX-5,32,positive,"It’s ideal for weekend cruising and spirited driving.",5
+Mazda MX-5,33,positive,"It feels fast even at legal speeds.",5
+Mazda MX-5,34,positive,"The seating position keeps you low to the ground.",4
+Mazda MX-5,35,positive,"A joy to drive on winding roads.",5
+Mazda MX-5,36,positive,"It has excellent aftermarket tuning options.",5
+Mazda MX-5,37,positive,"The community culture is friendly and passionate.",5
+Mazda MX-5,38,positive,"It performs well on track days for its price.",4
+Mazda MX-5,39,positive,"The chassis is playful and forgiving.",5
+Mazda MX-5,40,positive,"Insurance costs can be surprisingly reasonable.",4
+Mazda MX-5,41,positive,"It looks good from almost every angle.",5
+Mazda MX-5,42,positive,"The ride quality is better than expected for its class.",4
+Mazda MX-5,43,positive,"It’s easy to personalize and customize.",4
+Mazda MX-5,44,positive,"The car feels like a mechanical extension of the driver.",5
+Mazda MX-5,45,positive,"Mazda’s build quality is consistently solid.",4
+Mazda MX-5,46,positive,"Drivers can learn performance driving safely in it.",5
+Mazda MX-5,47,positive,"It’s extremely fun even at low horsepower.",5
+Mazda MX-5,48,positive,"The soft top roof is durable and weather-resistant.",4
+Mazda MX-5,49,positive,"The RF hard-top model offers extra practicality.",4
+Mazda MX-5,50,positive,"It encourages spirited, joyful driving habits.",5
+Mazda MX-5,51,positive,"Great for touring scenic drives with the roof down.",5
+Mazda MX-5,52,positive,"It strikes a perfect balance between price and performance.",4
+Mazda MX-5,53,positive,"Maintenance is straightforward for DIY owners.",4
+Mazda MX-5,54,positive,"The engine revs smoothly and eagerly.",4
+Mazda MX-5,55,positive,"The gearbox is accurate, short, and rewarding.",5
+Mazda MX-5,56,positive,"It’s highly photogenic and recognizable.",4
+Mazda MX-5,57,positive,"A well-cultivated sense of automotive purity.",5
+Mazda MX-5,58,positive,"It provides a strong emotional connection to driving.",5
+Mazda MX-5,59,positive,"The car feels much more expensive than it is.",4
+Mazda MX-5,60,positive,"It’s considered one of the best driver’s cars of all time.",5
+Mazda MX-5,61,positive,"It inspires automotive enthusiasm in young drivers.",5
+Mazda MX-5,62,positive,"A true embodiment of Mazda’s ‘Jinba Ittai’ philosophy.",5
+Mazda MX-5,63,positive,"Responsive throttle and lively engine.",4
+Mazda MX-5,64,positive,"Great choice for a fun commuter car.",4
+Mazda MX-5,65,positive,"It’s compact, agile, and intuitive.",5
+Mazda MX-5,66,positive,"The OEM seats provide good lateral support.",4
+Mazda MX-5,67,positive,"Low total cost of ownership.",4
+Mazda MX-5,68,positive,"Easy to work on mechanically.",4
+Mazda MX-5,69,positive,"Plenty of enthusiast clubs and events worldwide.",5
+Mazda MX-5,70,positive,"It’s a car that encourages spontaneous road trips.",5
+Mazda MX-5,71,positive,"You can feel the tires gripping the road.",4
+Mazda MX-5,72,positive,"It brings joy to almost anyone who drives it.",5
+Mazda MX-5,73,positive,"Owners often keep them for years or decades.",4
+Mazda MX-5,74,positive,"The ergonomics are well thought-out.",4
+Mazda MX-5,75,positive,"The steering wheel size and feel are perfect.",5
+Mazda MX-5,76,positive,"It feels alive on twisty roads.",5
+Mazda MX-5,77,positive,"Simple, honest sports car design.",5
+Mazda MX-5,78,positive,"Mazda delivers consistent improvements across generations.",4
+Mazda MX-5,79,positive,"It has a very involving driving experience.",5
+Mazda MX-5,80,positive,"Great car for convertible-style freedom.",5
+Mazda MX-5,81,positive,"It makes driving an event, not just transportation.",5
+Mazda MX-5,82,positive,"Excellent power-to-weight ratio.",5
+Mazda MX-5,83,positive,"It’s a modern classic in sports car history.",5
+Mazda MX-5,84,positive,"Great option for autocross and amateur racing.",4
+Mazda MX-5,85,positive,"It has a distinctive, enthusiastic exhaust tone.",4
+Mazda MX-5,86,positive,"Low center of gravity improves stability.",5
+Mazda MX-5,87,positive,"It encourages manual driving skills.",5
+Mazda MX-5,88,positive,"Great sunny-day weekend car.",5
+Mazda MX-5,89,positive,"It sets the standard for affordable fun cars.",5
+Mazda MX-5,90,positive,"It’s friendly and non-intimidating to drive.",5
+Mazda MX-5,91,positive,"Highly suitable for beginners and experienced drivers alike.",5
+Mazda MX-5,92,positive,"It’s easy to restore older models.",4
+Mazda MX-5,93,positive,"The interior is durable for long-term ownership.",4
+Mazda MX-5,94,positive,"It rewards smooth and precise driving technique.",5
+Mazda MX-5,95,positive,"A dependable daily driver for many owners.",4
+Mazda MX-5,96,positive,"The manual gearbox enhances driver involvement.",5
+Mazda MX-5,97,positive,"It’s widely recognized as the best selling roadster ever.",5
+Mazda MX-5,98,positive,"Driving it creates a strong emotional memory.",5
+Mazda MX-5,99,positive,"The car fosters a strong connection between driver and machine.",5
+Mazda MX-5,100,positive,"It remains true to its original roadster philosophy across generations.",5
+Mazda MX-5,101,negative,"The storage space is extremely limited.",2
+Mazda MX-5,102,negative,"The cabin feels cramped for taller drivers.",2
+Mazda MX-5,103,negative,"It lacks horsepower compared to rival sports cars.",2
+Mazda MX-5,104,negative,"Road noise is loud at high speeds.",2
+Mazda MX-5,105,negative,"The ride can feel harsh on rough pavement.",2
+Mazda MX-5,106,negative,"The infotainment system is basic.",3
+Mazda MX-5,107,negative,"It doesn’t perform well in extreme weather.",2
+Mazda MX-5,108,negative,"Limited trunk capacity restricts long-trip practicality.",2
+Mazda MX-5,109,negative,"Wind noise increases significantly with speed.",2
+Mazda MX-5,110,negative,"The seats can become uncomfortable on long drives.",2
+Mazda MX-5,111,negative,"Poor winter drivability without special tires.",2
+Mazda MX-5,112,negative,"The engine lacks torque for quick acceleration.",2
+Mazda MX-5,113,negative,"Interior materials can feel cheap on some models.",2
+Mazda MX-5,114,negative,"Repairs at dealerships can be pricey.",2
+Mazda MX-5,115,negative,"It can feel underpowered on highways.",2
+Mazda MX-5,116,negative,"Practicality is very limited due to size.",2
+Mazda MX-5,117,negative,"Some models suffer from rust issues.",2
+Mazda MX-5,118,negative,"Limited sound insulation reduces cabin comfort.",2
+Mazda MX-5,119,negative,"The suspension can feel too firm for daily commuting.",2
+Mazda MX-5,120,negative,"Not ideal for drivers over 6 feet tall.",2
+Mazda MX-5,121,negative,"Lacks modern luxury features.",3
+Mazda MX-5,122,negative,"Small cabin storage for personal items.",3
+Mazda MX-5,123,negative,"Limited cargo space even with passenger seat used.",3
+Mazda MX-5,124,negative,"The convertible top allows some water ingress in extreme rain.",2
+Mazda MX-5,125,negative,"Highway passing requires aggressive downshifting.",2
+Mazda MX-5,126,negative,"Engine sound can be droney at high RPMs.",2
+Mazda MX-5,127,negative,"It’s not suited for family use.",3
+Mazda MX-5,128,negative,"Back pain complaints from tall drivers.",2
+Mazda MX-5,129,negative,"The body roll is noticeable at times.",3
+Mazda MX-5,130,negative,"High insurance costs for young drivers.",2
+Mazda MX-5,131,negative,"Hard-top RF has reduced rear visibility.",2
+Mazda MX-5,132,negative,"Limited headroom with the roof closed.",2
+Mazda MX-5,133,negative,"Interior storage space is minimal.",3
+Mazda MX-5,134,negative,"The stock tires lack grip in wet conditions.",2
+Mazda MX-5,135,negative,"The paint can be thin and scratch easily.",2
+Mazda MX-5,136,negative,"The dashboard can feel outdated.",3
+Mazda MX-5,137,negative,"The climate control struggles in extreme heat.",2
+Mazda MX-5,138,negative,"Not suitable for transporting large items.",3
+Mazda MX-5,139,negative,"Some models have weak factory audio systems.",2
+Mazda MX-5,140,negative,"Limited practicality for everyday chores.",2
+Mazda MX-5,141,negative,"On long trips, fatigue can become an issue.",2
+Mazda MX-5,142,negative,"The car attracts attention that some drivers may find undesirable.",3
+Mazda MX-5,143,negative,"Older models often require suspension replacements.",2
+Mazda MX-5,144,negative,"The convertible mechanism can need maintenance over time.",2
+Mazda MX-5,145,negative,"There's no rear seat option.",3
+Mazda MX-5,146,negative,"It can feel twitchy at high speeds.",2
+Mazda MX-5,147,negative,"Limited towing capacity — effectively none.",3
+Mazda MX-5,148,negative,"Low ground clearance causes scraping issues.",2
+Mazda MX-5,149,negative,"Sun exposure can fade interior surfaces.",2
+Mazda MX-5,150,negative,"Short wheelbase can make the ride bumpy.",2
+Mazda MX-5,151,negative,"Engine tuning options are limited without forced induction.",2
+Mazda MX-5,152,negative,"High RPM cruising increases fuel consumption.",2
+Mazda MX-5,153,negative,"It does not fit large luggage items.",3
+Mazda MX-5,154,negative,"Driving ergonomics may not suit larger frames.",2
+Mazda MX-5,155,negative,"Factory suspension may be too soft for track use.",3
+Mazda MX-5,156,negative,"It lacks luxury class comfort features.",3
+Mazda MX-5,157,negative,"The design attracts stereotypes about the owner.",3
+Mazda MX-5,158,negative,"Not ideal for long-haul road trips.",2
+Mazda MX-5,159,negative,"The RF model adds weight to the car.",2
+Mazda MX-5,160,negative,"Cabin can become excessively hot in summer.",2
+Mazda MX-5,161,negative,"Exhaust tuning is required for sportier sound.",2
+Mazda MX-5,162,negative,"Minimal driver assists compared to modern sports cars.",3
+Mazda MX-5,163,negative,"The clutch can feel heavy in traffic.",2
+Mazda MX-5,164,negative,"It’s not a good fit for snowy climates.",2
+Mazda MX-5,165,negative,"Limited visibility with top up.",2
+Mazda MX-5,166,negative,"Soft top requires eventual replacement.",2
+Mazda MX-5,167,negative,"No turbo or supercharged option from the factory.",2
+Mazda MX-5,168,negative,"Engine bay is cramped for modifications.",2
+Mazda MX-5,169,negative,"The low stance can be hard to get in and out of.",2
+Mazda MX-5,170,negative,"Cabin feels claustrophobic in winter with roof closed.",2
+Mazda MX-5,171,negative,"Not suitable for transporting more than one passenger.",3
+Mazda MX-5,172,negative,"Safety ratings are only average.",2
+Mazda MX-5,173,negative,"Audio system struggles against wind and road noise.",2
+Mazda MX-5,174,negative,"Cup holder placement can be awkward.",2
+Mazda MX-5,175,negative,"It is impractical for everyday errands.",2
+Mazda MX-5,176,negative,"Cargo space doesn’t support long vacations.",2
+Mazda MX-5,177,negative,"Some owners experience rear differential noise.",2
+Mazda MX-5,178,negative,"Factory options list is limited.",2
+Mazda MX-5,179,negative,"The car can feel under-powered on uphill climbs.",2
+Mazda MX-5,180,negative,"Stock seats may lack lumbar support.",2
+Mazda MX-5,181,negative,"Rear cross-traffic visibility is poor.",2
+Mazda MX-5,182,negative,"Exposure to the elements shortens interior lifespan.",2
+Mazda MX-5,183,negative,"Engine heat can warm the cabin excessively.",2
+Mazda MX-5,184,negative,"Paint chips easily from road debris.",2
+Mazda MX-5,185,negative,"Aftermarket mods can raise insurance rates.",2
+Mazda MX-5,186,negative,"RF roof operation adds mechanical complexity.",2
+Mazda MX-5,187,negative,"Tire wear can be high depending on driving style.",2
+Mazda MX-5,188,negative,"Oil consumption can increase with spirited driving.",2
+Mazda MX-5,189,negative,"Tiny glove compartment with limited functionality.",3
+Mazda MX-5,190,negative,"Not ideal for long winter storage.",2
+Mazda MX-5,191,negative,"Some drivers find the clutch engagement point vague.",2
+Mazda MX-5,192,negative,"Accessories and add-ons can become costly.",2
+Mazda MX-5,193,negative,"Factory brakes may not satisfy aggressive drivers.",2
+Mazda MX-5,194,negative,"Not built for luxury ride comfort.",3
+Mazda MX-5,195,negative,"Rear-drive in wet conditions can be tricky.",2
+Mazda MX-5,196,negative,"It lacks serious straight-line acceleration.",2
+Mazda MX-5,197,negative,"The interior is extremely tight for storage.",3
+Mazda MX-5,198,negative,"It doesn’t isolate you from the road — every bump is felt.",2
+Mazda MX-5,199,negative,"The drivetrain drones on long highway drives.",2
+Mazda MX-5,200,negative,"Ultimately prioritizes fun over functionality, limiting its use case.",2

@@ -1,0 +1,201 @@
+product_name;opinion_id;sentiment;opinion(text);date
+Headphones;OP0001;positive;Fantastic product, highly recommend.;11.01.2025
+Monitor;OP0002;positive;Works perfectly so far.;30.03.2025
+Smartphone;OP0003;positive;Very satisfied with my purchase.;18.07.2025
+Smartphone;OP0004;positive;Excellent value for the price.;01.02.2025
+Backpack;OP0005;positive;Would buy again.;17.09.2025
+Monitor;OP0006;positive;Amazing experience overall.;22.11.2025
+Laptop;OP0007;positive;Fantastic product, highly recommend.;03.12.2024
+Headphones;OP0008;positive;Very satisfied with my purchase.;19.09.2025
+Headphones;OP0009;positive;Would buy again.;09.01.2025
+Coffee Maker;OP0010;positive;Works perfectly so far.;01.04.2025
+Backpack;OP0011;positive;Fantastic product, highly recommend.;30.09.2025
+Coffee Maker;OP0012;positive;Would buy again.;27.06.2025
+Laptop;OP0013;positive;Amazing experience overall.;03.04.2025
+Smartwatch;OP0014;positive;Fantastic product, highly recommend.;02.11.2025
+Backpack;OP0015;positive;Excellent value for the price.;02.01.2025
+Keyboard;OP0016;positive;Works perfectly so far.;14.04.2025
+Smartwatch;OP0017;positive;Very satisfied with my purchase.;18.11.2025
+Coffee Maker;OP0018;positive;Very satisfied with my purchase.;03.12.2024
+Smartwatch;OP0019;positive;Amazing experience overall.;11.09.2025
+Headphones;OP0020;positive;Great quality and performance.;28.01.2025
+Smartphone;OP0021;positive;Impressive build quality.;05.02.2025
+Backpack;OP0022;positive;Works perfectly so far.;02.11.2025
+Coffee Maker;OP0023;positive;Exceeded my expectations.;17.07.2025
+Smartwatch;OP0024;positive;Amazing experience overall.;25.03.2025
+Laptop;OP0025;positive;Superb product with great features.;10.07.2025
+Monitor;OP0026;positive;Superb product with great features.;27.07.2025
+Keyboard;OP0027;positive;Would buy again.;25.06.2025
+Backpack;OP0028;positive;Very satisfied with my purchase.;12.11.2025
+Headphones;OP0029;positive;Superb product with great features.;28.10.2025
+Headphones;OP0030;positive;Very satisfied with my purchase.;13.07.2025
+Smartphone;OP0031;positive;Amazing experience overall.;06.11.2025
+Coffee Maker;OP0032;positive;Exceeded my expectations.;26.11.2025
+Headphones;OP0033;positive;Excellent value for the price.;17.07.2025
+Smartwatch;OP0034;positive;Excellent value for the price.;25.10.2025
+Smartwatch;OP0035;positive;Excellent value for the price.;30.07.2025
+Smartwatch;OP0036;positive;Works perfectly so far.;23.05.2025
+Backpack;OP0037;positive;Amazing experience overall.;10.07.2025
+Keyboard;OP0038;positive;Very satisfied with my purchase.;28.01.2025
+Headphones;OP0039;positive;Impressive build quality.;05.05.2025
+Keyboard;OP0040;positive;Impressive build quality.;22.01.2025
+Headphones;OP0041;positive;Would buy again.;23.06.2025
+Headphones;OP0042;positive;Great quality and performance.;03.09.2025
+Coffee Maker;OP0043;positive;Very satisfied with my purchase.;27.11.2024
+Coffee Maker;OP0044;positive;Great quality and performance.;04.04.2025
+Coffee Maker;OP0045;positive;Would buy again.;07.12.2024
+Smartphone;OP0046;positive;Amazing experience overall.;22.08.2025
+Headphones;OP0047;positive;Excellent value for the price.;08.02.2025
+Coffee Maker;OP0048;positive;Works perfectly so far.;22.06.2025
+Headphones;OP0049;positive;Excellent value for the price.;29.09.2025
+Laptop;OP0050;positive;Impressive build quality.;13.11.2025
+Smartphone;OP0051;positive;Excellent value for the price.;19.09.2025
+Headphones;OP0052;positive;Exceeded my expectations.;03.12.2024
+Backpack;OP0053;positive;Superb product with great features.;03.11.2025
+Headphones;OP0054;positive;Fantastic product, highly recommend.;10.12.2024
+Backpack;OP0055;positive;Excellent value for the price.;05.04.2025
+Coffee Maker;OP0056;positive;Very satisfied with my purchase.;08.07.2025
+Keyboard;OP0057;positive;Exceeded my expectations.;15.09.2025
+Coffee Maker;OP0058;positive;Great quality and performance.;09.11.2025
+Smartwatch;OP0059;positive;Very satisfied with my purchase.;03.08.2025
+Smartphone;OP0060;positive;Excellent value for the price.;12.10.2025
+Headphones;OP0061;positive;Works perfectly so far.;02.09.2025
+Monitor;OP0062;positive;Amazing experience overall.;03.08.2025
+Smartphone;OP0063;positive;Great quality and performance.;25.07.2025
+Coffee Maker;OP0064;positive;Impressive build quality.;15.11.2025
+Headphones;OP0065;positive;Very satisfied with my purchase.;24.05.2025
+Keyboard;OP0066;positive;Great quality and performance.;23.11.2025
+Backpack;OP0067;positive;Impressive build quality.;22.04.2025
+Monitor;OP0068;positive;Very satisfied with my purchase.;09.03.2025
+Monitor;OP0069;positive;Works perfectly so far.;13.10.2025
+Monitor;OP0070;positive;Works perfectly so far.;11.06.2025
+Coffee Maker;OP0071;positive;Great quality and performance.;21.05.2025
+Smartwatch;OP0072;positive;Superb product with great features.;06.06.2025
+Smartphone;OP0073;positive;Works perfectly so far.;09.09.2025
+Laptop;OP0074;positive;Impressive build quality.;13.08.2025
+Backpack;OP0075;positive;Great quality and performance.;13.07.2025
+Laptop;OP0076;positive;Excellent value for the price.;20.02.2025
+Laptop;OP0077;positive;Impressive build quality.;09.03.2025
+Backpack;OP0078;positive;Great quality and performance.;14.07.2025
+Smartphone;OP0079;positive;Exceeded my expectations.;10.10.2025
+Monitor;OP0080;positive;Amazing experience overall.;29.01.2025
+Coffee Maker;OP0081;positive;Exceeded my expectations.;31.08.2025
+Keyboard;OP0082;positive;Superb product with great features.;17.10.2025
+Monitor;OP0083;positive;Exceeded my expectations.;07.01.2025
+Monitor;OP0084;positive;Very satisfied with my purchase.;23.10.2025
+Headphones;OP0085;positive;Works perfectly so far.;03.06.2025
+Laptop;OP0086;positive;Amazing experience overall.;31.03.2025
+Headphones;OP0087;positive;Exceeded my expectations.;22.06.2025
+Smartwatch;OP0088;positive;Great quality and performance.;30.05.2025
+Keyboard;OP0089;positive;Amazing experience overall.;18.12.2024
+Coffee Maker;OP0090;positive;Impressive build quality.;27.09.2025
+Headphones;OP0091;positive;Exceeded my expectations.;03.06.2025
+Laptop;OP0092;positive;Would buy again.;30.03.2025
+Smartphone;OP0093;positive;Superb product with great features.;04.09.2025
+Coffee Maker;OP0094;positive;Amazing experience overall.;15.12.2024
+Laptop;OP0095;positive;Impressive build quality.;01.05.2025
+Smartwatch;OP0096;positive;Excellent value for the price.;17.05.2025
+Monitor;OP0097;positive;Fantastic product, highly recommend.;25.08.2025
+Keyboard;OP0098;positive;Excellent value for the price.;19.05.2025
+Headphones;OP0099;positive;Would buy again.;21.08.2025
+Keyboard;OP0100;positive;Very satisfied with my purchase.;10.10.2025
+Laptop;OP0101;negative;Stopped working after a week.;28.10.2025
+Headphones;OP0102;negative;Not worth the price.;26.07.2025
+Keyboard;OP0103;negative;Broke shortly after purchase.;10.08.2025
+Keyboard;OP0104;negative;Unreliable performance.;09.12.2024
+Monitor;OP0105;negative;Poor build quality.;12.09.2025
+Smartphone;OP0106;negative;Very disappointing experience.;07.12.2024
+Smartwatch;OP0107;negative;Stopped working after a week.;05.10.2025
+Backpack;OP0108;negative;Not worth the price.;08.12.2024
+Smartphone;OP0109;negative;Very disappointing experience.;11.09.2025
+Monitor;OP0110;negative;Unreliable performance.;23.06.2025
+Smartphone;OP0111;negative;Would not recommend.;08.11.2025
+Headphones;OP0112;negative;Stopped working after a week.;29.01.2025
+Smartwatch;OP0113;negative;Did not meet expectations.;21.06.2025
+Smartwatch;OP0114;negative;Very disappointing experience.;20.09.2025
+Keyboard;OP0115;negative;Not worth the price.;24.08.2025
+Backpack;OP0116;negative;Low quality materials.;19.01.2025
+Backpack;OP0117;negative;Low quality materials.;03.06.2025
+Monitor;OP0118;negative;Terrible value for the money.;18.07.2025
+Keyboard;OP0119;negative;Very disappointing experience.;13.07.2025
+Keyboard;OP0120;negative;Unreliable performance.;26.10.2025
+Backpack;OP0121;negative;Stopped working after a week.;21.11.2025
+Monitor;OP0122;negative;Terrible value for the money.;26.06.2025
+Coffee Maker;OP0123;negative;Stopped working after a week.;08.04.2025
+Monitor;OP0124;negative;Poor build quality.;24.10.2025
+Smartphone;OP0125;negative;Low quality materials.;27.05.2025
+Monitor;OP0126;negative;Poor build quality.;08.04.2025
+Headphones;OP0127;negative;Unreliable performance.;11.02.2025
+Coffee Maker;OP0128;negative;Did not meet expectations.;05.11.2025
+Coffee Maker;OP0129;negative;Not worth the price.;24.07.2025
+Laptop;OP0130;negative;Broke shortly after purchase.;01.03.2025
+Headphones;OP0131;negative;Terrible value for the money.;03.02.2025
+Monitor;OP0132;negative;Terrible value for the money.;22.10.2025
+Backpack;OP0133;negative;Not worth the price.;07.04.2025
+Monitor;OP0134;negative;Poor build quality.;08.11.2025
+Keyboard;OP0135;negative;Terrible value for the money.;16.07.2025
+Monitor;OP0136;negative;Did not meet expectations.;09.04.2025
+Smartwatch;OP0137;negative;Would not recommend.;30.06.2025
+Backpack;OP0138;negative;Not worth the price.;17.11.2025
+Backpack;OP0139;negative;Low quality materials.;30.04.2025
+Coffee Maker;OP0140;negative;Terrible value for the money.;23.09.2025
+Backpack;OP0141;negative;Stopped working after a week.;17.10.2025
+Coffee Maker;OP0142;negative;Unreliable performance.;16.06.2025
+Monitor;OP0143;negative;Very disappointing experience.;22.09.2025
+Headphones;OP0144;negative;Not worth the price.;18.02.2025
+Backpack;OP0145;negative;Terrible value for the money.;03.02.2025
+Keyboard;OP0146;negative;Terrible value for the money.;10.05.2025
+Smartwatch;OP0147;negative;Not worth the price.;06.07.2025
+Keyboard;OP0148;negative;Not worth the price.;13.05.2025
+Laptop;OP0149;negative;Not worth the price.;14.05.2025
+Laptop;OP0150;negative;Low quality materials.;25.09.2025
+Monitor;OP0151;negative;Low quality materials.;17.09.2025
+Smartwatch;OP0152;negative;Poor build quality.;16.05.2025
+Smartwatch;OP0153;negative;Unreliable performance.;13.01.2025
+Headphones;OP0154;negative;Did not meet expectations.;11.01.2025
+Coffee Maker;OP0155;negative;Low quality materials.;07.10.2025
+Laptop;OP0156;negative;Low quality materials.;08.06.2025
+Keyboard;OP0157;negative;Low quality materials.;10.11.2025
+Smartphone;OP0158;negative;Did not meet expectations.;13.08.2025
+Headphones;OP0159;negative;Very disappointing experience.;04.09.2025
+Headphones;OP0160;negative;Poor build quality.;26.12.2024
+Backpack;OP0161;negative;Very disappointing experience.;22.12.2024
+Backpack;OP0162;negative;Poor build quality.;12.07.2025
+Backpack;OP0163;negative;Would not recommend.;09.11.2025
+Smartwatch;OP0164;negative;Unreliable performance.;17.03.2025
+Backpack;OP0165;negative;Poor build quality.;27.05.2025
+Backpack;OP0166;negative;Low quality materials.;07.10.2025
+Coffee Maker;OP0167;negative;Very disappointing experience.;22.02.2025
+Backpack;OP0168;negative;Low quality materials.;24.06.2025
+Smartwatch;OP0169;negative;Low quality materials.;24.05.2025
+Laptop;OP0170;negative;Stopped working after a week.;13.09.2025
+Headphones;OP0171;negative;Terrible value for the money.;11.06.2025
+Smartwatch;OP0172;negative;Poor build quality.;29.09.2025
+Keyboard;OP0173;negative;Poor build quality.;28.10.2025
+Smartphone;OP0174;negative;Low quality materials.;20.08.2025
+Keyboard;OP0175;negative;Unreliable performance.;20.09.2025
+Monitor;OP0176;negative;Stopped working after a week.;14.12.2024
+Backpack;OP0177;negative;Unreliable performance.;19.12.2024
+Headphones;OP0178;negative;Did not meet expectations.;29.11.2024
+Smartwatch;OP0179;negative;Terrible value for the money.;19.10.2025
+Backpack;OP0180;negative;Stopped working after a week.;04.09.2025
+Coffee Maker;OP0181;negative;Terrible value for the money.;07.01.2025
+Backpack;OP0182;negative;Unreliable performance.;09.11.2025
+Laptop;OP0183;negative;Unreliable performance.;28.09.2025
+Monitor;OP0184;negative;Would not recommend.;27.07.2025
+Laptop;OP0185;negative;Would not recommend.;07.08.2025
+Smartphone;OP0186;negative;Not worth the price.;25.01.2025
+Smartwatch;OP0187;negative;Low quality materials.;09.04.2025
+Monitor;OP0188;negative;Did not meet expectations.;13.06.2025
+Laptop;OP0189;negative;Unreliable performance.;05.07.2025
+Monitor;OP0190;negative;Terrible value for the money.;15.10.2025
+Backpack;OP0191;negative;Would not recommend.;20.04.2025
+Smartphone;OP0192;negative;Low quality materials.;30.12.2024
+Backpack;OP0193;negative;Would not recommend.;02.01.2025
+Smartphone;OP0194;negative;Very disappointing experience.;15.04.2025
+Headphones;OP0195;negative;Low quality materials.;21.12.2024
+Backpack;OP0196;negative;Stopped working after a week.;22.08.2025
+Monitor;OP0197;negative;Would not recommend.;17.05.2025
+Smartphone;OP0198;negative;Not worth the price.;31.08.2025
+Coffee Maker;OP0199;negative;Terrible value for the money.;05.01.2025
+Laptop;OP0200;negative;Did not meet expectations.;06.11.2025

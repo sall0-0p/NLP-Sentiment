@@ -1,0 +1,201 @@
+product_name,opinion_id,sentiment,opinion,score
+iPhone 17,1,positive,Stable system,4
+iPhone 17,2,positive,Stable system,5
+iPhone 17,3,positive,Great sound,3
+iPhone 17,4,positive,Solid build,4
+iPhone 17,5,positive,Solid build,3
+iPhone 17,6,positive,Flagship quality,5
+iPhone 17,7,positive,Great sound,3
+iPhone 17,8,positive,Premium design,3
+iPhone 17,9,positive,Feels good in hand,4
+iPhone 17,10,positive,Long battery life,3
+iPhone 17,11,positive,High quality,5
+iPhone 17,12,positive,Great sound,4
+iPhone 17,13,positive,Stable system,5
+iPhone 17,14,positive,Top camera,5
+iPhone 17,15,positive,Excellent camera,5
+iPhone 17,16,positive,Great performance,4
+iPhone 17,17,positive,Excellent camera,4
+iPhone 17,18,positive,Great performance,4
+iPhone 17,19,positive,Modern look,4
+iPhone 17,20,positive,Fast charging,4
+iPhone 17,21,positive,Great performance,4
+iPhone 17,22,positive,Smooth performance,4
+iPhone 17,23,positive,Modern look,3
+iPhone 17,24,positive,Modern look,5
+iPhone 17,25,positive,Feels good in hand,4
+iPhone 17,26,positive,Solid build,3
+iPhone 17,27,positive,Very fast,3
+iPhone 17,28,positive,Light and handy,4
+iPhone 17,29,positive,Flagship quality,4
+iPhone 17,30,positive,Solid build,3
+iPhone 17,31,positive,Great sound,3
+iPhone 17,32,positive,Solid build,5
+iPhone 17,33,positive,Premium design,5
+iPhone 17,34,positive,Solid build,4
+iPhone 17,35,positive,Light and handy,5
+iPhone 17,36,positive,Fast charging,5
+iPhone 17,37,positive,All-day battery,3
+iPhone 17,38,positive,Very responsive,5
+iPhone 17,39,positive,Light and handy,3
+iPhone 17,40,positive,Well optimized,5
+iPhone 17,41,positive,All-day battery,3
+iPhone 17,42,positive,Well optimized,5
+iPhone 17,43,positive,Flagship quality,3
+iPhone 17,44,positive,High quality,3
+iPhone 17,45,positive,Very responsive,3
+iPhone 17,46,positive,Amazing screen,5
+iPhone 17,47,positive,High quality,4
+iPhone 17,48,positive,Excellent camera,3
+iPhone 17,49,positive,Light and handy,5
+iPhone 17,50,positive,Modern look,4
+iPhone 17,51,positive,Fast charging,3
+iPhone 17,52,positive,Great sound,5
+iPhone 17,53,positive,Fast charging,3
+iPhone 17,54,positive,Very fast,3
+iPhone 17,55,positive,Excellent camera,4
+iPhone 17,56,positive,Amazing screen,3
+iPhone 17,57,positive,Excellent camera,3
+iPhone 17,58,positive,Premium design,4
+iPhone 17,59,positive,Well optimized,4
+iPhone 17,60,positive,Long battery life,5
+iPhone 17,61,positive,Top camera,4
+iPhone 17,62,positive,High quality,3
+iPhone 17,63,positive,Flagship quality,4
+iPhone 17,64,positive,Long battery life,3
+iPhone 17,65,positive,Light and handy,4
+iPhone 17,66,positive,Great performance,5
+iPhone 17,67,positive,Top camera,3
+iPhone 17,68,positive,Amazing screen,5
+iPhone 17,69,positive,Solid build,3
+iPhone 17,70,positive,Modern look,4
+iPhone 17,71,positive,Excellent camera,5
+iPhone 17,72,positive,Smooth performance,5
+iPhone 17,73,positive,Modern look,5
+iPhone 17,74,positive,High quality,5
+iPhone 17,75,positive,Top camera,5
+iPhone 17,76,positive,Very responsive,3
+iPhone 17,77,positive,Very responsive,3
+iPhone 17,78,positive,Very fast,3
+iPhone 17,79,positive,Top camera,4
+iPhone 17,80,positive,Feels good in hand,4
+iPhone 17,81,positive,Modern look,4
+iPhone 17,82,positive,Premium design,3
+iPhone 17,83,positive,Well optimized,5
+iPhone 17,84,positive,High quality,3
+iPhone 17,85,positive,Excellent camera,4
+iPhone 17,86,positive,High quality,5
+iPhone 17,87,positive,Excellent camera,3
+iPhone 17,88,positive,Top camera,5
+iPhone 17,89,positive,Premium design,3
+iPhone 17,90,positive,Flagship quality,3
+iPhone 17,91,positive,Solid build,4
+iPhone 17,92,positive,Excellent camera,5
+iPhone 17,93,positive,Excellent camera,4
+iPhone 17,94,positive,Excellent camera,5
+iPhone 17,95,positive,Premium design,4
+iPhone 17,96,positive,Amazing screen,5
+iPhone 17,97,positive,Feels good in hand,5
+iPhone 17,98,positive,Great performance,3
+iPhone 17,99,positive,Feels good in hand,3
+iPhone 17,100,positive,Feels good in hand,3
+iPhone 17,101,negative,No charger included,2
+iPhone 17,102,negative,Poor call quality,2
+iPhone 17,103,negative,Overpriced,1
+iPhone 17,104,negative,Average performance,2
+iPhone 17,105,negative,Average camera,1
+iPhone 17,106,negative,Battery issues,0
+iPhone 17,107,negative,No charger included,0
+iPhone 17,108,negative,Feels fragile,0
+iPhone 17,109,negative,Slippery in hand,0
+iPhone 17,110,negative,Expensive repairs,0
+iPhone 17,111,negative,Slow charging,2
+iPhone 17,112,negative,Average camera,0
+iPhone 17,113,negative,Expensive repairs,0
+iPhone 17,114,negative,Gets hot quickly,2
+iPhone 17,115,negative,Slow charging,2
+iPhone 17,116,negative,Minor upgrades,2
+iPhone 17,117,negative,Not much innovation,2
+iPhone 17,118,negative,Low storage,1
+iPhone 17,119,negative,Overheats,1
+iPhone 17,120,negative,No charger included,2
+iPhone 17,121,negative,Average camera,0
+iPhone 17,122,negative,Too heavy,0
+iPhone 17,123,negative,Not much innovation,0
+iPhone 17,124,negative,Scratches easily,0
+iPhone 17,125,negative,Average camera,0
+iPhone 17,126,negative,Gets hot quickly,0
+iPhone 17,127,negative,Overpriced,0
+iPhone 17,128,negative,Battery issues,1
+iPhone 17,129,negative,Too expensive,2
+iPhone 17,130,negative,Feels fragile,0
+iPhone 17,131,negative,Slow charging,2
+iPhone 17,132,negative,Gets hot quickly,0
+iPhone 17,133,negative,Not much innovation,1
+iPhone 17,134,negative,Scratches easily,2
+iPhone 17,135,negative,Overpriced,2
+iPhone 17,136,negative,Slippery in hand,2
+iPhone 17,137,negative,No charger included,1
+iPhone 17,138,negative,Scratches easily,2
+iPhone 17,139,negative,Scratches easily,0
+iPhone 17,140,negative,Battery issues,2
+iPhone 17,141,negative,Expensive repairs,1
+iPhone 17,142,negative,Scratches easily,0
+iPhone 17,143,negative,Weak speaker,2
+iPhone 17,144,negative,Weak battery,1
+iPhone 17,145,negative,Scratches easily,0
+iPhone 17,146,negative,Too heavy,0
+iPhone 17,147,negative,Too expensive,2
+iPhone 17,148,negative,Too heavy,1
+iPhone 17,149,negative,Overheats,1
+iPhone 17,150,negative,Too expensive,1
+iPhone 17,151,negative,Slow charging,2
+iPhone 17,152,negative,Slippery in hand,2
+iPhone 17,153,negative,Overpriced,1
+iPhone 17,154,negative,Battery issues,1
+iPhone 17,155,negative,Expensive repairs,0
+iPhone 17,156,negative,Not much innovation,0
+iPhone 17,157,negative,Overpriced,0
+iPhone 17,158,negative,Not much innovation,0
+iPhone 17,159,negative,Too expensive,0
+iPhone 17,160,negative,No charger included,0
+iPhone 17,161,negative,Not much innovation,2
+iPhone 17,162,negative,Weak speaker,0
+iPhone 17,163,negative,Weak speaker,2
+iPhone 17,164,negative,Average performance,1
+iPhone 17,165,negative,Slippery in hand,0
+iPhone 17,166,negative,Not much innovation,0
+iPhone 17,167,negative,Slippery in hand,1
+iPhone 17,168,negative,No charger included,0
+iPhone 17,169,negative,Feels fragile,0
+iPhone 17,170,negative,Not much innovation,2
+iPhone 17,171,negative,Expensive repairs,0
+iPhone 17,172,negative,Average performance,1
+iPhone 17,173,negative,Average camera,2
+iPhone 17,174,negative,Slippery in hand,2
+iPhone 17,175,negative,Battery issues,1
+iPhone 17,176,negative,Not much innovation,0
+iPhone 17,177,negative,Battery issues,0
+iPhone 17,178,negative,Low storage,0
+iPhone 17,179,negative,Overheats,0
+iPhone 17,180,negative,Scratches easily,1
+iPhone 17,181,negative,Weak battery,0
+iPhone 17,182,negative,Slow charging,2
+iPhone 17,183,negative,Overheats,0
+iPhone 17,184,negative,Slippery in hand,1
+iPhone 17,185,negative,Low storage,2
+iPhone 17,186,negative,Expensive repairs,2
+iPhone 17,187,negative,Battery issues,1
+iPhone 17,188,negative,Scratches easily,2
+iPhone 17,189,negative,Low storage,0
+iPhone 17,190,negative,Weak battery,2
+iPhone 17,191,negative,Not much innovation,0
+iPhone 17,192,negative,Feels fragile,2
+iPhone 17,193,negative,Expensive repairs,2
+iPhone 17,194,negative,Overheats,2
+iPhone 17,195,negative,Feels fragile,1
+iPhone 17,196,negative,Weak battery,2
+iPhone 17,197,negative,Overheats,1
+iPhone 17,198,negative,Not much innovation,0
+iPhone 17,199,negative,Scratches easily,1
+iPhone 17,200,negative,Gets hot quickly,2

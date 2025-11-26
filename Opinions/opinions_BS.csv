@@ -1,0 +1,201 @@
+product_name,opinion_id,sentiment,opinion,score,date
+The Great Gatsby,1,positive,"A timeless classic that delves into the corruption of the American Dream. Fitzgerald’s writing is exquisite, and the story is as relevant today as ever. Highly recommended!",5,2025-11-26
+The Great Gatsby,2,positive,"Beautifully written, but I felt the characters were hard to empathize with. Still, the atmosphere and symbolism are unmatched.",4,2025-11-26
+The Great Gatsby,3,negative,I didn’t connect with the characters or their motivations. The story felt slow and a bit dated to me.,2,2025-11-26
+The Great Gatsby,4,positive,A masterpiece. Fitzgerald captures the essence of the Jazz Age perfectly. I was hooked from the first page to the last.,5,2025-11-26
+The Great Gatsby,5,neutral,"A good read, but the pacing was a bit off for me. I appreciated the themes, though.",3,2025-11-26
+The Great Gatsby,6,positive,"The themes of love, wealth, and class are so rich in this book. The writing is beautiful, but some parts felt a bit repetitive.",4,2025-11-26
+The Great Gatsby,7,positive,One of the best books I’ve ever read. The tragic story of Gatsby is both heartbreaking and eye-opening. A must-read.,5,2025-11-26
+The Great Gatsby,8,negative,"I thought the book was fine, but I didn’t feel the emotional impact everyone else seems to. Perhaps I missed something.",3,2025-11-26
+The Great Gatsby,9,positive,"I really enjoyed the story and the characters. It’s a quick read, but definitely one to reflect on after finishing.",4,2025-11-26
+The Great Gatsby,10,positive,The writing is absolutely stunning. The novel paints such a vivid picture of the Roaring Twenties. Gatsby’s story still haunts me.,5,2025-11-26
+The Great Gatsby,11,positive,"I loved the historical setting and the themes explored, but I thought the characters were somewhat shallow.",4,2025-11-26
+The Great Gatsby,12,negative,I didn’t enjoy the book. The story seemed repetitive and the characters didn’t resonate with me at all.,2,2025-11-26
+The Great Gatsby,13,neutral,"It’s a good book, but I felt like I had to read between the lines too much. It left me with mixed feelings.",3,2025-11-26
+The Great Gatsby,14,positive,"Simply put, this is one of the best American novels. It’s tragic, beautifully written, and rich with meaning.",5,2025-11-26
+The Great Gatsby,15,positive,A great exploration of wealth and obsession. The characters’ flaws are so human and make for an engaging read.,4,2025-11-26
+The Great Gatsby,16,negative,"I struggled to get through it. The writing style wasn’t for me, and I couldn’t relate to any of the characters.",1,2025-11-26
+The Great Gatsby,17,positive,"Fitzgerald’s writing is incredible, and the story holds a mirror up to society’s obsession with materialism.",4,2025-11-26
+The Great Gatsby,18,positive,"This book blew me away! The symbolism, themes, and writing were incredible. It’s a tragic, beautiful tale that will stay with me forever.",5,2025-11-26
+The Great Gatsby,19,neutral,"It’s a solid story, but I didn’t find it as compelling as some other classics. Still worth reading for the historical context.",3,2025-11-26
+The Great Gatsby,20,positive,"Really enjoyed the book, but the ending was so sad. It definitely left me thinking about the choices the characters made.",4,2025-11-26
+The Great Gatsby,21,positive,"A perfect portrayal of the emptiness that often comes with wealth. The story of Gatsby is timeless, and the writing is just beautiful.",5,2025-11-26
+The Great Gatsby,22,positive,"I enjoyed the story, especially the setting, but felt the characters were sometimes hard to follow. Still, a solid classic.",4,2025-11-26
+The Great Gatsby,23,negative,"Not my cup of tea. I couldn’t get into the story or the characters, and I found it hard to care about what happened.",2,2025-11-26
+The Great Gatsby,24,positive,"Beautifully tragic. Fitzgerald’s prose is unmatched, and the themes of disillusionment with the American Dream are still so relevant.",5,2025-11-26
+The Great Gatsby,25,negative,"The story was interesting, but I couldn’t get past the fact that most of the characters were unlikable. It made it hard to enjoy.",3,2025-11-26
+The Great Gatsby,26,positive,"The writing is exquisite, but the themes were a bit too bleak for me. Still, I couldn’t put it down.",5,2025-11-26
+The Great Gatsby,27,positive,This book captivated me from start to finish. It’s one of those stories you can’t stop thinking about long after you’ve read it.,5,2025-11-26
+The Great Gatsby,28,negative,"I’m not a fan of the style of writing, and the story didn’t grab my attention as much as I thought it would.",2,2025-11-26
+The Great Gatsby,29,positive,"The Great Gatsby is a beautifully written novel about love and the American Dream. Some parts were a bit slow, but it was worth the read.",4,2025-11-26
+The Great Gatsby,30,negative,"The book was fine, but I don’t think it lived up to its hype. The characters were all flawed, but none of them were particularly relatable.",3,2025-11-26
+The Great Gatsby,31,positive,"Truly a literary gem. The way Fitzgerald paints a picture of the Jazz Age is amazing. A novel about dreams, loss, and longing.",5,2025-11-26
+The Great Gatsby,32,positive,"I really enjoyed it, but I felt the ending was a little rushed. Still, a powerful story about the illusions of wealth.",4,2025-11-26
+The Great Gatsby,33,neutral,"It was a good story, but it took me a while to get into it. The main character was fascinating but tragic.",3,2025-11-26
+The Great Gatsby,34,positive,A masterpiece! The elegance and sadness of this book stay with you long after you finish. Fitzgerald captures the era and the emptiness of it all.,5,2025-11-26
+The Great Gatsby,35,positive,"The story is interesting, but I had a hard time understanding the motivations of the characters. Nonetheless, a thought-provoking read.",4,2025-11-26
+The Great Gatsby,36,negative,I didn’t like the characters and found the plot too slow. Maybe I just didn’t “get” it.,2,2025-11-26
+The Great Gatsby,37,positive,"A fascinating exploration of society’s obsession with wealth, love, and status. The ending was gut-wrenching.",4,2025-11-26
+The Great Gatsby,38,positive,The Great Gatsby is a beautifully written and deeply tragic story. Fitzgerald’s prose is impeccable.,5,2025-11-26
+The Great Gatsby,39,neutral,"It was fine, but it didn’t blow me away. Maybe it’s just not my type of novel.",3,2025-11-26
+The Great Gatsby,40,positive,A beautifully tragic love story. It made me reflect on the nature of dreams and how they can consume us.,5,2025-11-26
+The Great Gatsby,41,positive,"A very interesting read. Some parts were slow, but overall I appreciated the depth of the characters and themes.",4,2025-11-26
+The Great Gatsby,42,negative,"Couldn’t finish it. The story didn’t interest me, and the characters were not relatable at all.",1,2025-11-26
+The Great Gatsby,43,positive,"One of the greatest books I’ve ever read. The writing, the characters, and the tragic story all make it unforgettable.",5,2025-11-26
+The Great Gatsby,44,positive,"Great read with a lot of depth. Some of the symbolism went over my head, but it’s definitely worth a second look.",4,2025-11-26
+The Great Gatsby,45,neutral,"A decent book, but I didn’t connect with the themes as much as I thought I would. Still, the writing is top-notch.",3,2025-11-26
+The Great Gatsby,46,positive,Truly a masterpiece. Fitzgerald’s portrayal of the American Dream is hauntingly beautiful.,5,2025-11-26
+The Great Gatsby,47,positive,"The writing was beautiful, but the book felt somewhat predictable. Still, I enjoyed it overall.",4,2025-11-26
+The Great Gatsby,48,negative,I really didn’t enjoy this book. It felt too slow and the characters weren’t engaging enough for me.,2,2025-11-26
+The Great Gatsby,49,positive,An iconic story. The tragedy of Gatsby’s life and the illusion of the American Dream are conveyed in a way that sticks with you long after reading.,5,2025-11-26
+The Great Gatsby,50,neutral,"Good, but not as compelling as I expected. Some parts dragged on too long.",3,2025-11-26
+The Great Gatsby,51,positive,"A beautifully written novel, though the characters left me feeling conflicted about their motivations.",4,2025-11-26
+The Great Gatsby,52,positive,"Fitzgerald’s prose is poetic, and the themes of ambition and disillusionment are timeless.",5,2025-11-26
+The Great Gatsby,53,neutral,"It was okay, but the plot didn’t grab me as much as I thought it would.",3,2025-11-26
+The Great Gatsby,54,positive,"A tragic tale of unrequited love, wealth, and obsession; simply unforgettable.",5,2025-11-26
+The Great Gatsby,55,positive,"The story is compelling, but the characters are hard to root for, which made it difficult to connect.",4,2025-11-26
+The Great Gatsby,56,negative,I couldn't get past the slow pacing and lack of emotional depth in the characters.,2,2025-11-26
+The Great Gatsby,57,positive,A haunting exploration of the American Dream; one of the best novels I’ve ever read.,5,2025-11-26
+The Great Gatsby,58,positive,"It’s a classic for a reason, but I didn’t feel the emotional impact others have described.",4,2025-11-26
+The Great Gatsby,59,negative,"Interesting themes and setting, but the characters felt shallow and unrelatable to me.",3,2025-11-26
+The Great Gatsby,60,positive,"The symbolism is rich, and the story is compelling, but I wish the characters were more complex.",4,2025-11-26
+The Great Gatsby,61,positive,Fitzgerald captures the decadence and emptiness of the Roaring Twenties so perfectly.,5,2025-11-26
+The Great Gatsby,62,neutral,"I appreciated the writing style, but the story didn’t resonate with me as much as I hoped.",3,2025-11-26
+The Great Gatsby,63,positive,"A wonderfully written exploration of the flaws in chasing wealth, but a little slow in parts.",4,2025-11-26
+The Great Gatsby,64,positive,"A masterpiece of American literature; tragic, beautiful, and thought-provoking.",5,2025-11-26
+The Great Gatsby,65,negative,It didn’t live up to the hype for me; I found the characters and plot too lacking.,2,2025-11-26
+The Great Gatsby,66,neutral,"It’s a well-written book, but I didn’t find myself invested in the characters’ fates.",3,2025-11-26
+The Great Gatsby,67,positive,"The writing is brilliant, and Gatsby’s tragic pursuit of an impossible dream is both heartbreaking and profound.",5,2025-11-26
+The Great Gatsby,68,positive,A deep and emotional story about the fragility of dreams and the inevitable consequences of our desires.,5,2025-11-26
+The Great Gatsby,69,positive,Every word in this novel feels like it was chosen with care; the symbolism is outstanding.,5,2025-11-26
+The Great Gatsby,70,positive,"A stunning portrayal of the Jazz Age, but the story felt a bit predictable at times.",4,2025-11-26
+The Great Gatsby,71,negative,I found the book slow and difficult to finish; didn’t care for the characters at all.,1,2025-11-26
+The Great Gatsby,72,positive,"One of the best books I’ve ever read, full of beauty, sadness, and timeless themes.",5,2025-11-26
+The Great Gatsby,73,positive,"A compelling, well-written story, but the characters’ flaws sometimes overshadowed the plot.",4,2025-11-26
+The Great Gatsby,74,neutral,"It’s a good book, but I found it hard to relate to the characters or get emotionally invested.",3,2025-11-26
+The Great Gatsby,75,positive,"Gatsby’s dream is tragic, and Fitzgerald’s prose is pure poetry. A must-read for everyone.",5,2025-11-26
+The Great Gatsby,76,negative,"I couldn’t get through it; the pacing was too slow, and the characters felt distant.",2,2025-11-26
+The Great Gatsby,77,positive,"A solid classic with deep themes of love and class, though not all the characters were easy to sympathize with.",4,2025-11-26
+The Great Gatsby,78,positive,"I loved the atmosphere, and the tragic ending really resonated with me. A true masterpiece.",5,2025-11-26
+The Great Gatsby,79,positive,"The book is intriguing and well-written, but I found the characters difficult to empathize with.",4,2025-11-26
+The Great Gatsby,80,neutral,"I enjoyed the writing, but the plot felt predictable, and the characters were a bit one-dimensional.",3,2025-11-26
+The Great Gatsby,81,positive,Truly a haunting tale of lost dreams and the emptiness of materialism. Fitzgerald’s genius is evident in every page.,5,2025-11-26
+The Great Gatsby,82,positive,"While the writing is impeccable, I found the book a bit melancholic and slow at times.",4,2025-11-26
+The Great Gatsby,83,positive,"A deep, emotional story about the fragility of dreams and the inevitable consequences of our desires.",5,2025-11-26
+The Great Gatsby,84,neutral,"I appreciated the themes and writing, but I couldn’t quite connect to the characters’ actions.",3,2025-11-26
+The Great Gatsby,85,positive,"A thought-provoking novel, though the characters' lack of morality made it hard to fully invest in them.",4,2025-11-26
+The Great Gatsby,86,negative,"The book didn’t live up to expectations for me. I found it slow, and I didn’t care much for the characters.",2,2025-11-26
+The Great Gatsby,87,positive,"Absolutely loved it. A beautifully tragic tale of obsession, longing, and illusion. Fitzgerald at his best.",5,2025-11-26
+The Great Gatsby,88,positive,"Engaging and beautifully written, but I thought the plot could have been more dynamic.",4,2025-11-26
+The Great Gatsby,89,positive,A stunning commentary on the pursuit of happiness through wealth and status. Beautifully executed.,5,2025-11-26
+The Great Gatsby,90,neutral,"An interesting story, but I wasn’t overly moved by it. It left me with mixed feelings.",3,2025-11-26
+The Great Gatsby,91,positive,"The writing was exquisite, and the symbolism was powerful, but the plot felt a little predictable.",4,2025-11-26
+The Great Gatsby,92,positive,"The Great Gatsby is a breathtaking exploration of the fleeting nature of dreams, told with unmatched elegance.",5,2025-11-26
+The Great Gatsby,93,negative,"Didn’t enjoy it much. The plot was slow, and the characters seemed unrelatable and superficial.",2,2025-11-26
+The Great Gatsby,94,positive,"A tragic, beautifully written tale of love, ambition, and lost dreams. I can’t stop thinking about it.",5,2025-11-26
+The Great Gatsby,95,positive,"Great writing and themes, though I found the characters a bit hard to connect with emotionally.",4,2025-11-26
+The Great Gatsby,96,neutral,"The book had moments of brilliance, but I didn’t find the overall story as captivating as expected.",3,2025-11-26
+The Great Gatsby,97,positive,One of the best books about the American Dream. Fitzgerald’s prose alone is worth reading it.,5,2025-11-26
+The Great Gatsby,98,positive,A beautifully crafted story that offers a deep dive into the complexities of human desire.,5,2025-11-26
+The Great Gatsby,99,neutral,"A good book, but I struggled to care about the characters. Some parts of the book dragged on for me.",3,2025-11-26
+The Great Gatsby,100,positive,"A haunting and beautiful novel about the American Dream, loss, and the dangers of chasing an illusion.",5,2025-11-26
+The Great Gatsby,101,positive,An incredible exploration of the American Dream and its flaws. Fitzgerald’s prose is pure elegance.,5,2025-11-26
+The Great Gatsby,102,positive,"A masterful story of love, ambition, and tragedy. Every page is full of vivid imagery and emotion.",5,2025-11-26
+The Great Gatsby,103,negative,I didn’t feel emotionally connected to any of the characters. The story dragged for me.,2,2025-11-26
+The Great Gatsby,104,positive,Such a beautifully written book. The symbolism in every chapter is a work of art.,5,2025-11-26
+The Great Gatsby,105,negative,"I struggled to finish this book. The pacing was too slow, and I couldn’t relate to the characters.",1,2025-11-26
+The Great Gatsby,106,positive,A timeless tale of unrequited love and the dangers of excess. Fitzgerald’s writing style is unforgettable.,5,2025-11-26
+The Great Gatsby,107,positive,"The story is filled with rich, vivid descriptions that transport you to the Jazz Age. Loved every bit of it!",5,2025-11-26
+The Great Gatsby,108,negative,"The book felt a bit overhyped to me. The characters didn’t evoke much emotion, and the plot was too predictable.",2,2025-11-26
+The Great Gatsby,109,positive,A compelling and tragic tale that really makes you reflect on the cost of chasing an ideal. Beautifully written.,5,2025-11-26
+The Great Gatsby,110,positive,Fitzgerald does an amazing job of capturing the greed and desperation of the Roaring Twenties. It’s still relevant today.,5,2025-11-26
+The Great Gatsby,111,negative,"The writing style didn’t work for me, and I couldn’t care less about the characters. The plot felt flat.",1,2025-11-26
+The Great Gatsby,112,positive,One of my all-time favorites! The beauty of Fitzgerald’s writing and the tragic nature of Gatsby’s dreams is unforgettable.,5,2025-11-26
+The Great Gatsby,113,negative,"I found it hard to engage with the characters, and the themes didn’t hit as hard as I expected. Not for me.",2,2025-11-26
+The Great Gatsby,114,positive,The book is a sharp critique of materialism and excess. Fitzgerald’s writing feels like poetry.,5,2025-11-26
+The Great Gatsby,115,negative,"I didn’t enjoy the book. The characters were unlikeable, and the pace was too slow for me.",2,2025-11-26
+The Great Gatsby,116,positive,A beautifully tragic story about the illusions of the American Dream. Fitzgerald’s storytelling is unmatched.,5,2025-11-26
+The Great Gatsby,117,positive,A classic that captures the disillusionment of an entire era. Gatsby’s story is heartbreaking yet mesmerizing.,5,2025-11-26
+The Great Gatsby,118,negative,"The book felt repetitive, and I had a hard time understanding the deeper meaning. It didn’t leave much of an impact.",2,2025-11-26
+The Great Gatsby,119,positive,Such a powerful story about the fragility of dreams and the harsh reality of wealth. A modern classic.,5,2025-11-26
+The Great Gatsby,120,negative,"I didn’t get the hype around this book. The characters felt one-dimensional, and the plot didn’t grab me.",1,2025-11-26
+The Great Gatsby,121,positive,"The Great Gatsby is a haunting story, perfectly capturing the excess and emptiness of the Jazz Age. Simply beautiful.",5,2025-11-26
+The Great Gatsby,122,negative,"I couldn’t connect with any of the characters. The plot felt too slow, and I wasn’t engaged with the story.",2,2025-11-26
+The Great Gatsby,123,positive,"Fitzgerald’s genius is undeniable. The themes of love, obsession, and materialism still resonate today.",5,2025-11-26
+The Great Gatsby,124,positive,An excellent portrayal of the pitfalls of the American Dream. Fitzgerald’s style and voice are exceptional.,5,2025-11-26
+The Great Gatsby,125,negative,"I felt the book lacked depth. The characters were hard to relate to, and the story didn’t hold my attention.",2,2025-11-26
+The Great Gatsby,126,positive,"A beautifully tragic tale. The writing is pure gold, and the themes are thought-provoking and deeply meaningful.",5,2025-11-26
+The Great Gatsby,127,positive,This book captures the essence of an era so perfectly. Fitzgerald’s writing is unmatched in its elegance and poignancy.,5,2025-11-26
+The Great Gatsby,128,negative,"I didn’t care for the book. The characters were unappealing, and I couldn’t connect with the plot or themes.",1,2025-11-26
+The Great Gatsby,129,positive,A heartbreaking and beautifully written portrayal of the Jazz Age and the elusive American Dream. A must-read.,5,2025-11-26
+The Great Gatsby,130,negative,"I was disappointed. The characters didn’t resonate with me, and the plot was slow and tedious.",2,2025-11-26
+The Great Gatsby,131,positive,"A tragic story of ambition and unrequited love, masterfully told. Fitzgerald’s writing will stay with me for a long time.",5,2025-11-26
+The Great Gatsby,132,negative,"The story didn’t capture my interest, and I couldn’t connect with any of the characters. Not a fan of the writing style either.",1,2025-11-26
+The Great Gatsby,133,positive,"A deeply poignant and unforgettable book. The symbolism, themes, and writing are all exceptional.",5,2025-11-26
+The Great Gatsby,134,negative,"I couldn’t get through it. The pacing was far too slow for me, and I didn’t care about the characters.",2,2025-11-26
+The Great Gatsby,135,positive,"Gatsby’s tragic story is beautifully told. The writing is exquisite, and the themes resonate on a deep level.",5,2025-11-26
+The Great Gatsby,136,negative,"I found it hard to finish this book. The plot felt aimless, and the characters were not interesting at all.",1,2025-11-26
+The Great Gatsby,137,positive,This book is a classic for a reason. It’s beautifully written and profoundly insightful about the American Dream.,5,2025-11-26
+The Great Gatsby,138,negative,The story didn’t do much for me. I couldn’t connect with the characters or get invested in their struggles.,2,2025-11-26
+The Great Gatsby,139,positive,"A powerful critique of the American Dream, beautifully written. Fitzgerald captures the Jazz Age perfectly.",5,2025-11-26
+The Great Gatsby,140,negative,"I found the story to be slow, and the characters didn’t hold my attention. I didn’t understand the appeal.",1,2025-11-26
+The Great Gatsby,141,positive,"One of the best books I’ve read. The prose is poetic, and the themes of ambition, love, and loss are timeless.",5,2025-11-26
+The Great Gatsby,142,negative,"I didn’t enjoy the book. The characters were shallow, and the story didn’t feel compelling to me.",2,2025-11-26
+The Great Gatsby,143,positive,Fitzgerald’s portrayal of the Jazz Age and the pursuit of the American Dream is powerful and unforgettable.,5,2025-11-26
+The Great Gatsby,144,negative,"I didn’t like the characters, and the plot was far too slow for me. The book didn’t engage me.",1,2025-11-26
+The Great Gatsby,145,positive,A story of heartbreak and lost dreams. Fitzgerald’s writing is as captivating as it is tragic.,5,2025-11-26
+The Great Gatsby,146,negative,"The book was too slow and too long for me. I didn’t care for the characters, and the plot didn’t do much for me.",2,2025-11-26
+The Great Gatsby,147,positive,"The Great Gatsby is an unforgettable tale of hope, ambition, and loss. Beautifully written and hauntingly tragic.",5,2025-11-26
+The Great Gatsby,148,negative,"The book felt too predictable, and I wasn’t emotionally moved by the story. Not my favorite classic.",2,2025-11-26
+The Great Gatsby,149,positive,A brilliant portrayal of the Jazz Age and the emptiness of wealth. Fitzgerald’s writing is elegant and poetic.,5,2025-11-26
+The Great Gatsby,150,negative,"I didn’t understand the hype. The book felt slow, and the characters were unappealing to me.",1,2025-11-26
+The Great Gatsby,151,positive,A beautiful story about ambition and the American Dream. Fitzgerald’s writing is poetic and captivating.,5,2025-11-26
+The Great Gatsby,152,negative,"The characters didn’t appeal to me, and I struggled with the pacing. It didn’t live up to the hype.",2,2025-11-26
+The Great Gatsby,153,positive,"A tragic tale of lost dreams. The writing is exquisite, and the themes still resonate today.",5,2025-11-26
+The Great Gatsby,154,negative,"I didn’t care for the writing style, and I found the characters unrelatable. The book didn’t resonate with me.",2,2025-11-26
+The Great Gatsby,155,positive,"A timeless classic. The themes of ambition, wealth, and disillusionment are so relevant, and Fitzgerald’s writing is beautiful.",5,2025-11-26
+The Great Gatsby,156,negative,"The book felt repetitive, and the plot didn’t hold my attention. I couldn’t connect with the characters.",2,2025-11-26
+The Great Gatsby,157,positive,Fitzgerald captures the disillusionment of the American Dream in such a powerful and heartbreaking way. A masterpiece.,5,2025-11-26
+The Great Gatsby,158,negative,I found the characters shallow and the plot too slow. I couldn’t get into it at all.,1,2025-11-26
+The Great Gatsby,159,positive,An absolutely brilliant story that explores the fragility of dreams. Fitzgerald’s writing is unmatched in its beauty.,5,2025-11-26
+The Great Gatsby,160,negative,"The book was hard to get through. The pacing was slow, and the characters didn’t hold my interest.",2,2025-11-26
+The Great Gatsby,161,positive,The Great Gatsby is a story about unrequited love and ambition that is timeless and deeply affecting. A must-read.,5,2025-11-26
+The Great Gatsby,162,negative,"I found the book hard to follow, and I didn’t connect with the characters. The pacing was also an issue for me.",2,2025-11-26
+The Great Gatsby,163,positive,A hauntingly beautiful novel that captures the emptiness of the Jazz Age and the destruction of the American Dream.,5,2025-11-26
+The Great Gatsby,164,negative,"The writing felt pretentious, and I couldn’t bring myself to care about any of the characters. Didn’t enjoy it.",1,2025-11-26
+The Great Gatsby,165,positive,A heartbreaking and poetic tale. Fitzgerald’s exploration of the Jazz Age is masterful and poignant.,5,2025-11-26
+The Great Gatsby,166,negative,"I didn’t see the point of the book. The characters were all unlikeable, and the story didn’t interest me.",1,2025-11-26
+The Great Gatsby,167,positive,"Simply an extraordinary novel. The themes of love, loss, and the American Dream are so beautifully depicted.",5,2025-11-26
+The Great Gatsby,168,negative,"The plot was too slow, and the characters were shallow. I didn’t connect with the story at all.",2,2025-11-26
+The Great Gatsby,169,positive,A beautifully tragic story about dreams and reality. Fitzgerald’s prose is unmatched in elegance.,5,2025-11-26
+The Great Gatsby,170,negative,"I just didn’t get into it. The characters felt fake, and the plot was too predictable for me.",2,2025-11-26
+The Great Gatsby,171,positive,"A timeless classic that holds up even today. Fitzgerald’s writing is exceptional, and the themes are thought-provoking.",5,2025-11-26
+The Great Gatsby,172,negative,"The book was slow, and I couldn’t empathize with any of the characters. I didn’t find it engaging.",2,2025-11-26
+The Great Gatsby,173,positive,A beautiful exploration of the pursuit of wealth and love. Fitzgerald’s prose is poetic and evocative.,5,2025-11-26
+The Great Gatsby,174,negative,"The story didn’t capture my attention, and the characters didn’t resonate with me at all.",2,2025-11-26
+The Great Gatsby,175,positive,A masterpiece. Fitzgerald’s depiction of the Jazz Age and the failure of the American Dream is both heartbreaking and insightful.,5,2025-11-26
+The Great Gatsby,176,negative,"I didn’t like the characters, and the plot was too slow for my taste. I couldn’t get into the story.",1,2025-11-26
+The Great Gatsby,177,positive,"An exquisite portrayal of longing, wealth, and loss. Fitzgerald’s writing is poetic and compelling.",5,2025-11-26
+The Great Gatsby,178,negative,"I didn’t find this book engaging at all. The pacing was slow, and I couldn’t connect with any of the characters.",1,2025-11-26
+The Great Gatsby,179,positive,"Fitzgerald’s storytelling is impeccable. A beautifully tragic tale about love, hope, and loss.",5,2025-11-26
+The Great Gatsby,180,negative,"The plot felt repetitive, and the characters were unappealing to me. I couldn’t finish it.",1,2025-11-26
+The Great Gatsby,181,positive,A powerful and haunting story about the fragility of the American Dream. Fitzgerald’s writing is exceptional.,5,2025-11-26
+The Great Gatsby,182,negative,"The book didn’t captivate me. The characters were shallow, and the story didn’t engage me.",2,2025-11-26
+The Great Gatsby,183,positive,"An unforgettable novel about hope, loss, and the American Dream. Fitzgerald’s writing is breathtaking.",5,2025-11-26
+The Great Gatsby,184,negative,"The writing didn’t work for me, and I found it hard to care about the characters. I didn’t enjoy the story.",2,2025-11-26
+The Great Gatsby,185,positive,A beautifully tragic and insightful story about the consequences of chasing false dreams. Fitzgerald’s writing is exquisite.,5,2025-11-26
+The Great Gatsby,186,negative,I couldn’t connect with the characters or the story. The book felt very slow and hard to follow.,1,2025-11-26
+The Great Gatsby,187,positive,"A profound and timeless story. Fitzgerald’s prose is flawless, and the story will stay with me forever.",5,2025-11-26
+The Great Gatsby,188,negative,"I didn’t care for the characters, and the story didn’t engage me. I found the pacing too slow.",2,2025-11-26
+The Great Gatsby,189,positive,A stunning exploration of ambition and love. Fitzgerald captures the emptiness of the American Dream perfectly.,5,2025-11-26
+The Great Gatsby,190,negative,"I couldn’t finish the book. The characters didn’t feel real, and the story was hard to get into.",1,2025-11-26
+The Great Gatsby,191,positive,"Fitzgerald’s depiction of the Jazz Age is exceptional. The themes of love, wealth, and tragedy are still relevant today.",5,2025-11-26
+The Great Gatsby,192,negative,"The writing was too slow for me, and I couldn’t connect with any of the characters. I didn’t enjoy it.",2,2025-11-26
+The Great Gatsby,193,positive,"A beautifully written story about love, obsession, and the American Dream. Fitzgerald’s prose is lyrical.",5,2025-11-26
+The Great Gatsby,194,negative,"The story didn’t live up to the hype. I didn’t like the characters, and the plot was too slow for me.",2,2025-11-26
+The Great Gatsby,195,positive,"A stunning, tragic tale that captures the dreams and disillusionments of an entire era. Fitzgerald’s writing is top-notch.",5,2025-11-26
+The Great Gatsby,196,negative,"I couldn’t finish it. The book was too slow, and the characters were unlikable.",1,2025-11-26
+The Great Gatsby,197,positive,A timeless tale about the fragility of dreams and the excesses of the Jazz Age. Fitzgerald’s writing is flawless.,5,2025-11-26
+The Great Gatsby,198,negative,"The book didn’t grab me. The characters were shallow, and the plot felt aimless.",2,2025-11-26
+The Great Gatsby,199,positive,An unforgettable classic. Fitzgerald’s poetic style and exploration of love and ambition make this a must-read.,5,2025-11-26
+The Great Gatsby,200,negative,"I found the book tedious and boring. The characters were uninteresting, and the pacing was slow.",1,2025-11-26

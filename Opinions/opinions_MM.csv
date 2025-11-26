@@ -1,0 +1,201 @@
+product_name,opinion_id,sentiment,opinion,score,date
+Keyboard,NEG_042,negative,Don't trust the reviews. This product is awful.,2,2025-01-03
+Backpack,NEG_036,negative,Complete waste of money. It stopped working after minimal use.,2,2025-09-22
+Phone Case,POS_004,positive,I'm extremely satisfied with this purchase. It's well-made and durable.,4,2025-07-12
+Air Purifier,NEG_043,negative,The quality is abysmal. I expected much better for the price.,2,2025-01-08
+Power Bank,NEG_017,negative,Cheap materials and poor construction. Very unhappy with this purchase.,1,2025-01-25
+Blender,POS_010,positive,This product is outstanding. It does exactly what I need.,4,2025-11-03
+Webcam,NEG_038,negative,This is a poorly designed product that doesn't deliver.,2,2025-01-04
+Power Bank,POS_091,positive,I'm blown away by how good this is. Definitely worth buying.,4,2024-11-26
+Webcam,POS_026,positive,This is a premium product at a reasonable price. Love it!,4,2024-11-28
+Smart Watch,NEG_034,negative,I'm so disappointed with this purchase. It's cheaply constructed.,1,2025-10-12
+Phone Case,NEG_040,negative,The quality is abysmal. I expected much better for the price.,2,2025-10-07
+Fitness Tracker,POS_042,positive,Amazing quality and durability. I'm very pleased.,5,2024-12-10
+Laptop,NEG_089,negative,This product is terrible. It broke after one use.,1,2025-08-26
+Bluetooth Speaker,POS_087,positive,I'm very impressed with the quality. This is a solid product.,5,2025-07-09
+Wireless Headphones,POS_079,positive,The design is sleek and the functionality is excellent.,4,2025-02-23
+Keyboard,POS_068,positive,This is a fantastic product that I use daily. Love it!,5,2025-08-20
+Keyboard,POS_036,positive,The quality is top-notch. This is built to last.,4,2025-03-21
+Yoga Mat,NEG_029,negative,The product is flimsy and broke within days. Terrible!,2,2025-07-22
+Wireless Headphones,NEG_023,negative,I'm very unhappy with this. It's cheaply made and unreliable.,1,2025-04-25
+Blender,NEG_025,negative,Don't waste your money on this. It's not worth it.,1,2025-07-26
+Yoga Mat,POS_025,positive,This is one of the best purchases I've ever made. Highly recommend!,4,2025-01-11
+Bluetooth Speaker,POS_076,positive,Outstanding value. This is a must-have item.,5,2025-08-08
+Gaming Mouse,POS_012,positive,The quality is exceptional. I would definitely buy this again.,5,2025-09-03
+Smart Watch,NEG_032,negative,I'm so disappointed with this purchase. It's cheaply constructed.,2,2025-04-24
+Webcam,NEG_092,negative,This product is a joke. It broke almost immediately.,2,2025-06-09
+Phone Case,POS_099,positive,Absolutely love this product! It exceeded all my expectations and works perfectly.,4,2025-08-31
+USB Cable,NEG_090,negative,Horrible design and execution. I'm very unhappy.,2,2025-03-14
+Gaming Mouse,NEG_084,negative,Don't trust the reviews. This product is awful.,2,2025-01-25
+Running Shoes,POS_048,positive,I'm extremely happy with this purchase. It's everything I wanted and more.,5,2025-03-02
+Phone Case,POS_057,positive,I'm very impressed with the quality. This is a solid product.,5,2025-10-07
+Bluetooth Speaker,POS_046,positive,This is exactly what I was looking for. Works like a charm!,4,2025-05-12
+Bluetooth Speaker,NEG_009,negative,Poor quality materials and construction. Very disappointing.,2,2025-10-16
+Monitor,NEG_016,negative,This product is a complete failure. Don't waste your time.,2,2025-08-02
+Power Bank,POS_085,positive,This is a premium product at a reasonable price. Love it!,4,2025-08-26
+Power Bank,POS_031,positive,I'm very impressed with the quality. This is a solid product.,5,2025-07-07
+Keyboard,NEG_072,negative,This is completely useless. It doesn't do what it's supposed to.,2,2025-09-15
+Water Bottle,NEG_050,negative,This is garbage. It doesn't work and feels cheap.,2,2025-09-28
+Gaming Mouse,POS_005,positive,This product is brilliant. It's made my daily routine so much better.,4,2025-01-07
+Wireless Headphones,NEG_039,negative,I'm extremely disappointed. This product is a complete letdown.,1,2025-06-13
+Yoga Mat,NEG_098,negative,I'm extremely frustrated with this purchase. It's unreliable.,2,2025-10-14
+Water Bottle,POS_055,positive,The quality is top-notch. This is built to last.,5,2025-03-03
+Smart Watch,POS_003,positive,This is exactly what I was looking for. Works like a charm!,4,2025-09-29
+Power Bank,POS_058,positive,Highly recommend! This product is worth every penny.,5,2025-04-13
+Backpack,POS_043,positive,This is hands down the best product in its price range.,4,2025-07-23
+Wireless Headphones,POS_083,positive,This is one of the best purchases I've ever made. Highly recommend!,4,2025-03-19
+Coffee Maker,NEG_082,negative,The worst quality I've seen. This is a waste of money.,1,2025-08-04
+Smart Watch,POS_022,positive,Superb quality and performance. I couldn't ask for anything better.,5,2025-09-16
+Monitor,POS_070,positive,Excellent design and functionality. I'm very pleased with this.,4,2025-11-04
+Smart Watch,POS_089,positive,Best purchase I've made in a long time. The quality is outstanding.,4,2025-06-06
+Backpack,POS_067,positive,I'm delighted with this product. It's exactly as described.,5,2024-12-27
+Water Bottle,POS_018,positive,I'm thoroughly impressed with the build quality and performance.,4,2025-10-12
+Desk Lamp,NEG_086,negative,Awful quality and performance. I regret this purchase.,2,2025-01-02
+Coffee Maker,POS_095,positive,I'm blown away by how good this is. Definitely worth buying.,5,2025-01-05
+Fitness Tracker,NEG_059,negative,Horrible design and execution. I'm very unhappy.,1,2024-12-27
+USB Cable,POS_013,positive,This is a fantastic product that I use daily. Love it!,5,2025-11-02
+Running Shoes,NEG_049,negative,This product is a disaster. It's unreliable and poorly designed.,1,2025-10-07
+Laptop,NEG_046,negative,This is completely useless. It doesn't do what it's supposed to.,2,2025-02-22
+Water Bottle,POS_044,positive,The design is sleek and the functionality is excellent.,4,2025-10-09
+Water Bottle,POS_093,positive,Incredible product! It works flawlessly every single time.,5,2025-03-31
+Gaming Mouse,NEG_026,negative,I'm so disappointed. The quality is far below expectations.,2,2025-07-08
+Power Bank,POS_040,positive,This product is wonderful! It's made such a positive difference.,5,2025-05-29
+USB Cable,NEG_076,negative,This is a poorly designed product that doesn't deliver.,2,2025-07-11
+Fitness Tracker,POS_075,positive,This is a game-changer. I use it every day and it never disappoints.,4,2025-04-30
+USB Cable,POS_002,positive,Works perfectly right out of the box. No issues at all.,5,2025-03-10
+Laptop,NEG_057,negative,Absolutely awful. The product stopped working within a week.,2,2025-05-12
+Bluetooth Speaker,NEG_020,negative,Don't waste your money on this. It's not worth it.,2,2025-05-04
+Monitor,POS_073,positive,This product is brilliant. It's made my daily routine so much better.,5,2025-02-25
+Running Shoes,POS_082,positive,Outstanding quality and performance. I'm very impressed.,5,2025-04-23
+Fitness Tracker,POS_029,positive,I can't say enough good things about this. It's fantastic!,5,2025-09-08
+Phone Case,POS_098,positive,The performance is remarkable. I'm thoroughly satisfied.,4,2025-03-30
+Backpack,NEG_002,negative,I'm really disappointed. This is not worth the price.,2,2025-05-13
+Fitness Tracker,POS_077,positive,Works perfectly right out of the box. No issues at all.,5,2025-01-18
+Power Bank,NEG_063,negative,Don't buy this! It's cheap junk that doesn't work.,2,2025-09-05
+Monitor,POS_088,positive,I'm really impressed with how well this works. Great buy!,4,2025-09-30
+Air Purifier,NEG_005,negative,Very disappointed with this product. It broke after just a few days.,1,2025-10-19
+Desk Lamp,NEG_067,negative,Very poor quality. I'm returning this as soon as possible.,2,2025-07-12
+Desk Lamp,NEG_054,negative,Cheaply made and doesn't work properly. Very frustrated.,2,2025-10-17
+Bluetooth Speaker,POS_011,positive,This is exactly what I was looking for. Works like a charm!,4,2025-01-27
+Monitor,POS_033,positive,Excellent design and functionality. I'm very pleased with this.,4,2025-03-15
+Laptop,NEG_062,negative,Cheap materials and poor construction. Very unhappy with this purchase.,1,2025-03-06
+Water Bottle,NEG_045,negative,Poor quality and doesn't live up to the description. Very disappointed.,2,2025-05-02
+Keyboard,NEG_037,negative,Horrible product. It doesn't work properly and feels flimsy.,2,2025-10-18
+Backpack,NEG_068,negative,This is a waste of money. It doesn't work as advertised.,2,2025-11-02
+Yoga Mat,NEG_077,negative,This product is terrible. It broke after one use.,1,2024-12-19
+Yoga Mat,POS_052,positive,The quality is exceptional. I would definitely buy this again.,5,2025-03-12
+Coffee Maker,NEG_052,negative,Don't buy this! It's cheap junk that doesn't work.,1,2025-10-18
+Bluetooth Speaker,POS_035,positive,Highly recommend! This product is worth every penny.,4,2025-01-08
+Webcam,NEG_060,negative,I'm extremely frustrated with this purchase. It's unreliable.,2,2025-06-15
+Air Purifier,NEG_075,negative,The worst quality I've seen. This is a waste of money.,2,2025-11-19
+Blender,POS_045,positive,The design is sleek and the functionality is excellent.,5,2025-07-13
+Bluetooth Speaker,NEG_053,negative,Terrible quality. I would not recommend this to anyone.,1,2025-08-06
+Smart Watch,POS_069,positive,I'm really impressed with how well this works. Great buy!,4,2025-04-12
+Coffee Maker,NEG_100,negative,This is completely useless. It doesn't do what it's supposed to.,1,2025-07-28
+Fitness Tracker,POS_054,positive,This product is outstanding. It does exactly what I need.,5,2024-12-29
+Webcam,NEG_093,negative,Absolutely awful. The product stopped working within a week.,2,2025-11-25
+Yoga Mat,NEG_074,negative,This is a complete rip-off. Save your money.,1,2025-07-28
+Power Bank,NEG_041,negative,The product is flimsy and broke within days. Terrible!,2,2025-04-25
+Water Bottle,NEG_066,negative,The product is poorly designed and uncomfortable to use.,1,2025-07-10
+Smart Watch,POS_017,positive,Superb quality and performance. I couldn't ask for anything better.,5,2024-12-06
+Webcam,NEG_070,negative,Save your money and buy something else. This is garbage.,1,2025-10-05
+Laptop,NEG_007,negative,This product is a joke. It broke almost immediately.,1,2025-08-28
+Keyboard,POS_053,positive,I'm blown away by how good this is. Definitely worth buying.,5,2025-06-13
+Monitor,POS_027,positive,The performance is remarkable. I'm thoroughly satisfied.,5,2025-07-17
+Laptop,NEG_014,negative,I'm so disappointed with this purchase. It's cheaply constructed.,1,2025-02-24
+USB Cable,POS_028,positive,Incredible product! It works flawlessly every single time.,4,2025-09-21
+Blender,POS_050,positive,This is hands down the best product in its price range.,5,2025-03-11
+Smart Watch,POS_097,positive,This is one of the best purchases I've ever made. Highly recommend!,4,2025-10-25
+Keyboard,POS_092,positive,The performance is remarkable. I'm thoroughly satisfied.,5,2025-02-23
+Fitness Tracker,NEG_031,negative,Don't trust the reviews. This product is awful.,1,2025-04-08
+Wireless Headphones,POS_038,positive,Absolutely love this product! It exceeded all my expectations and works perfectly.,4,2025-06-17
+Blender,NEG_008,negative,I'm very unhappy with the quality. It feels cheap and breaks easily.,2,2025-08-13
+Power Bank,NEG_091,negative,The product is poorly designed and uncomfortable to use.,2,2025-06-10
+Wireless Headphones,NEG_033,negative,The product is poorly made and doesn't function correctly.,2,2024-12-18
+Air Purifier,POS_071,positive,Perfect! No complaints whatsoever. Five stars all the way.,4,2025-03-07
+Bluetooth Speaker,NEG_071,negative,This product is terrible. It broke after one use.,1,2024-12-20
+Laptop,NEG_044,negative,The product is poorly made and doesn't function correctly.,2,2025-04-30
+Coffee Maker,NEG_006,negative,Terrible quality. I would not recommend this to anyone.,1,2025-03-23
+Desk Lamp,POS_080,positive,This product is amazing! I've recommended it to all my friends.,4,2025-10-09
+Gaming Mouse,POS_061,positive,Excellent purchase! It's reliable and well-designed.,4,2025-05-20
+Coffee Maker,NEG_087,negative,The worst product I've ever bought. Don't make the same mistake.,1,2025-07-18
+Smart Watch,POS_094,positive,I'm extremely satisfied with this purchase. It's well-made and durable.,4,2025-07-31
+Bluetooth Speaker,NEG_058,negative,The product is poorly designed and uncomfortable to use.,1,2025-06-20
+Blender,POS_030,positive,Excellent design and functionality. I'm very pleased with this.,4,2025-03-07
+Smart Watch,NEG_018,negative,Horrible product. It doesn't work properly and feels flimsy.,2,2025-10-13
+Monitor,POS_039,positive,This is a game-changer. I use it every day and it never disappoints.,4,2025-07-07
+Laptop,POS_009,positive,Incredible product! It works flawlessly every single time.,5,2025-08-30
+Backpack,NEG_051,negative,This is a complete rip-off. Save your money.,1,2024-12-01
+Backpack,NEG_085,negative,Very poor quality control. The product arrived damaged and defective.,2,2025-09-02
+Water Bottle,POS_021,positive,Incredible product! It works flawlessly every single time.,5,2025-04-18
+Phone Case,POS_081,positive,The performance is remarkable. I'm thoroughly satisfied.,4,2025-07-10
+Water Bottle,NEG_095,negative,Poor craftsmanship and materials. Not worth the money.,2,2025-08-08
+Backpack,POS_065,positive,Outstanding value. This is a must-have item.,5,2025-10-01
+USB Cable,POS_090,positive,I love everything about this product. It's perfect!,4,2024-12-29
+Desk Lamp,NEG_012,negative,This product is unreliable and frustrating to use.,1,2025-10-29
+Air Purifier,POS_078,positive,I'm extremely satisfied with this purchase. It's well-made and durable.,4,2025-11-06
+Running Shoes,POS_047,positive,I'm very impressed with the quality. This is a solid product.,4,2025-04-22
+Water Bottle,POS_059,positive,I'm extremely satisfied. This is a quality product that delivers.,5,2024-12-16
+Fitness Tracker,NEG_021,negative,The quality is abysmal. I expected much better for the price.,2,2025-03-01
+Webcam,POS_072,positive,I'm thoroughly impressed with the build quality and performance.,4,2025-04-11
+Monitor,POS_084,positive,This product is wonderful! It's made such a positive difference.,5,2025-07-29
+Coffee Maker,NEG_069,negative,Very disappointed with this product. It broke after just a few days.,2,2024-11-29
+Coffee Maker,POS_001,positive,This has become an essential part of my daily life. Love it!,4,2025-07-08
+Laptop,POS_063,positive,This is exactly what I was looking for. Works like a charm!,5,2025-02-03
+Gaming Mouse,NEG_011,negative,Horrible design and execution. I'm very unhappy.,1,2025-06-07
+USB Cable,POS_096,positive,This is a game-changer. I use it every day and it never disappoints.,4,2025-10-08
+Power Bank,POS_015,positive,This product is wonderful! It's made such a positive difference.,4,2025-05-08
+Water Bottle,NEG_024,negative,Very poor quality. I'm returning this as soon as possible.,1,2025-01-02
+Desk Lamp,POS_100,positive,This product has exceeded my expectations in every way.,4,2025-02-05
+Laptop,NEG_015,negative,Very poor quality. I'm returning this as soon as possible.,1,2025-02-19
+Desk Lamp,POS_024,positive,Highly recommend! This product is worth every penny.,4,2025-04-01
+Phone Case,NEG_022,negative,I'm returning this immediately. It's not fit for purpose.,2,2025-07-28
+Power Bank,POS_051,positive,The performance is stellar. I couldn't be more impressed.,4,2025-06-22
+USB Cable,NEG_027,negative,This is a complete rip-off. Save your money.,2,2025-02-10
+Desk Lamp,POS_007,positive,I'm very impressed with the quality. This is a solid product.,4,2025-09-28
+Running Shoes,NEG_056,negative,The product is flimsy and broke within days. Terrible!,1,2025-03-26
+Yoga Mat,POS_037,positive,Superior quality and design. I'm really pleased with this purchase.,5,2025-05-27
+Coffee Maker,NEG_079,negative,Very disappointed with this product. It broke after just a few days.,1,2025-08-30
+Laptop,POS_064,positive,I'm extremely satisfied. This is a quality product that delivers.,5,2025-07-16
+Monitor,NEG_004,negative,This is a terrible product. I would give it zero stars if I could.,1,2025-11-23
+Laptop,POS_032,positive,Works beautifully! I'm so satisfied with this purchase.,4,2025-04-26
+Water Bottle,POS_034,positive,Works perfectly right out of the box. No issues at all.,4,2025-05-04
+Blender,NEG_055,negative,This is a complete rip-off. Save your money.,2,2024-12-25
+Wireless Headphones,POS_066,positive,This is a premium product at a reasonable price. Love it!,4,2024-12-25
+Fitness Tracker,NEG_094,negative,The product is poorly made and doesn't function correctly.,2,2025-03-14
+Laptop,NEG_028,negative,The worst product I've ever bought. Don't make the same mistake.,1,2024-11-29
+Power Bank,POS_023,positive,I'm delighted with this product. It's exactly as described.,4,2025-09-23
+Yoga Mat,NEG_073,negative,Poor quality and doesn't live up to the description. Very disappointed.,1,2025-09-05
+USB Cable,NEG_003,negative,This product is a disaster. It's unreliable and poorly designed.,1,2025-10-14
+Laptop,NEG_078,negative,I'm so disappointed with this purchase. It's cheaply constructed.,2,2025-07-24
+Keyboard,NEG_010,negative,I'm very unhappy with the quality. It feels cheap and breaks easily.,2,2025-10-25
+Gaming Mouse,NEG_096,negative,I'm extremely frustrated with this purchase. It's unreliable.,1,2025-01-14
+Bluetooth Speaker,POS_041,positive,Fantastic product! It's even better than I expected.,4,2025-01-27
+Keyboard,NEG_083,negative,The product is poorly designed and uncomfortable to use.,2,2024-12-14
+Desk Lamp,NEG_061,negative,Horrible design and execution. I'm very unhappy.,2,2025-10-20
+Bluetooth Speaker,POS_086,positive,The quality is exceptional. I would definitely buy this again.,5,2025-10-19
+Yoga Mat,NEG_019,negative,I'm returning this immediately. It's not fit for purpose.,1,2025-04-29
+Water Bottle,POS_008,positive,Absolutely love this product! It exceeded all my expectations and works perfectly.,4,2025-04-28
+Blender,POS_060,positive,Incredible product! It works flawlessly every single time.,4,2024-12-25
+Wireless Headphones,POS_074,positive,Best purchase I've made in a long time. The quality is outstanding.,4,2025-07-02
+Desk Lamp,NEG_064,negative,The product is flimsy and broke within days. Terrible!,2,2025-04-04
+Backpack,NEG_035,negative,Don't waste your money on this. It's not worth it.,2,2025-06-08
+Laptop,NEG_047,negative,I'm extremely disappointed. This product is a complete letdown.,2,2025-03-16
+Bluetooth Speaker,POS_020,positive,This is a game-changer. I use it every day and it never disappoints.,4,2024-12-31
+Yoga Mat,POS_049,positive,I'm delighted with this product. It's exactly as described.,5,2024-12-20
+Fitness Tracker,NEG_097,negative,This is completely useless. It doesn't do what it's supposed to.,2,2025-07-17
+Power Bank,NEG_013,negative,Cheap materials and poor construction. Very unhappy with this purchase.,2,2025-05-28
+Air Purifier,NEG_081,negative,This is a poorly designed product that doesn't deliver.,1,2025-04-16
+Coffee Maker,NEG_030,negative,This product is terrible. It broke after one use.,1,2025-05-20
+Phone Case,NEG_048,negative,I'm so disappointed. The quality is far below expectations.,1,2025-10-15
+Desk Lamp,POS_014,positive,Excellent craftsmanship and attention to detail. Very impressed.,4,2025-08-19
+Bluetooth Speaker,POS_019,positive,Outstanding quality and performance. I'm very impressed.,4,2025-02-24
+Water Bottle,POS_056,positive,Perfect! No complaints whatsoever. Five stars all the way.,5,2025-06-11
+Smart Watch,POS_016,positive,Fantastic product! It's even better than I expected.,5,2025-11-26
+Desk Lamp,NEG_088,negative,Horrible product. It doesn't work properly and feels flimsy.,1,2025-03-26
+Blender,NEG_001,negative,Awful quality and performance. I regret this purchase.,2,2025-06-29
+Power Bank,POS_062,positive,Outstanding value. This is a must-have item.,4,2024-12-17
+Desk Lamp,NEG_099,negative,Cheap materials and poor construction. Very unhappy with this purchase.,2,2025-02-11
+Coffee Maker,POS_006,positive,Best purchase I've made in a long time. The quality is outstanding.,4,2025-03-20
+Gaming Mouse,NEG_065,negative,I'm extremely frustrated with this purchase. It's unreliable.,2,2025-07-27
+Bluetooth Speaker,NEG_080,negative,The product is poorly designed and uncomfortable to use.,1,2025-02-06

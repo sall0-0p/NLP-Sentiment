@@ -1,0 +1,201 @@
+product_name,opinion_id,sentiment,opinion,score,date
+Video Game,1,positive,Really enjoyed playing this.,5,2023-01-01
+Video Game,2,positive,Impressive visuals and smooth performance.,5,2023-01-02
+Video Game,3,positive,Exceeded my expectations.,5,2023-01-03
+Video Game,4,positive,Fun and engaging gameplay.,5,2023-01-04
+Video Game,5,positive,Really enjoyed playing this.,4,2023-01-05
+Video Game,6,positive,Great experience overall.,5,2023-01-06
+Video Game,7,positive,Great experience overall.,4,2023-01-07
+Video Game,8,positive,Really enjoyed playing this.,3,2023-01-08
+Video Game,9,positive,Exceeded my expectations.,5,2023-01-09
+Video Game,10,positive,Exceeded my expectations.,5,2023-01-10
+Video Game,11,positive,Exceeded my expectations.,3,2023-01-11
+Video Game,12,positive,Fun and engaging gameplay.,3,2023-01-12
+Video Game,13,positive,Impressive visuals and smooth performance.,4,2023-01-13
+Video Game,14,positive,Impressive visuals and smooth performance.,3,2023-01-14
+Video Game,15,positive,Exceeded my expectations.,4,2023-01-15
+Video Game,16,positive,Impressive visuals and smooth performance.,5,2023-01-16
+Video Game,17,positive,Impressive visuals and smooth performance.,3,2023-01-17
+Video Game,18,positive,Really enjoyed playing this.,3,2023-01-18
+Video Game,19,positive,Fun and engaging gameplay.,4,2023-01-19
+Video Game,20,positive,Exceeded my expectations.,4,2023-01-20
+Video Game,21,positive,Exceeded my expectations.,4,2023-01-21
+Video Game,22,positive,Really enjoyed playing this.,4,2023-01-22
+Video Game,23,positive,Really enjoyed playing this.,5,2023-01-23
+Video Game,24,positive,Exceeded my expectations.,4,2023-01-24
+Video Game,25,positive,Fun and engaging gameplay.,3,2023-01-25
+Video Game,26,positive,Exceeded my expectations.,5,2023-01-26
+Video Game,27,positive,Exceeded my expectations.,3,2023-01-27
+Video Game,28,positive,Fun and engaging gameplay.,3,2023-01-28
+Video Game,29,positive,Really enjoyed playing this.,3,2023-01-29
+Video Game,30,positive,Fun and engaging gameplay.,5,2023-01-30
+Video Game,31,positive,Impressive visuals and smooth performance.,4,2023-01-31
+Video Game,32,positive,Fun and engaging gameplay.,3,2023-02-01
+Video Game,33,positive,Fun and engaging gameplay.,5,2023-02-02
+Video Game,34,positive,Really enjoyed playing this.,5,2023-02-03
+Video Game,35,positive,Great experience overall.,5,2023-02-04
+Video Game,36,positive,Exceeded my expectations.,3,2023-02-05
+Video Game,37,positive,Impressive visuals and smooth performance.,3,2023-02-06
+Video Game,38,positive,Impressive visuals and smooth performance.,3,2023-02-07
+Video Game,39,positive,Impressive visuals and smooth performance.,5,2023-02-08
+Video Game,40,positive,Really enjoyed playing this.,4,2023-02-09
+Video Game,41,positive,Impressive visuals and smooth performance.,5,2023-02-10
+Video Game,42,positive,Really enjoyed playing this.,4,2023-02-11
+Video Game,43,positive,Great experience overall.,4,2023-02-12
+Video Game,44,positive,Really enjoyed playing this.,3,2023-02-13
+Video Game,45,positive,Fun and engaging gameplay.,3,2023-02-14
+Video Game,46,positive,Impressive visuals and smooth performance.,5,2023-02-15
+Video Game,47,positive,Impressive visuals and smooth performance.,3,2023-02-16
+Video Game,48,positive,Really enjoyed playing this.,4,2023-02-17
+Video Game,49,positive,Exceeded my expectations.,4,2023-02-18
+Video Game,50,positive,Really enjoyed playing this.,5,2023-02-19
+Video Game,51,positive,Exceeded my expectations.,5,2023-02-20
+Video Game,52,positive,Fun and engaging gameplay.,5,2023-02-21
+Video Game,53,positive,Great experience overall.,5,2023-02-22
+Video Game,54,positive,Great experience overall.,5,2023-02-23
+Video Game,55,positive,Exceeded my expectations.,4,2023-02-24
+Video Game,56,positive,Exceeded my expectations.,5,2023-02-25
+Video Game,57,positive,Impressive visuals and smooth performance.,5,2023-02-26
+Video Game,58,positive,Fun and engaging gameplay.,3,2023-02-27
+Video Game,59,positive,Really enjoyed playing this.,5,2023-02-28
+Video Game,60,positive,Really enjoyed playing this.,5,2023-03-01
+Video Game,61,positive,Great experience overall.,4,2023-03-02
+Video Game,62,positive,Exceeded my expectations.,5,2023-03-03
+Video Game,63,positive,Really enjoyed playing this.,3,2023-03-04
+Video Game,64,positive,Fun and engaging gameplay.,4,2023-03-05
+Video Game,65,positive,Exceeded my expectations.,5,2023-03-06
+Video Game,66,positive,Exceeded my expectations.,4,2023-03-07
+Video Game,67,positive,Really enjoyed playing this.,5,2023-03-08
+Video Game,68,positive,Impressive visuals and smooth performance.,4,2023-03-09
+Video Game,69,positive,Really enjoyed playing this.,4,2023-03-10
+Video Game,70,positive,Really enjoyed playing this.,3,2023-03-11
+Video Game,71,positive,Really enjoyed playing this.,4,2023-03-12
+Video Game,72,positive,Impressive visuals and smooth performance.,3,2023-03-13
+Video Game,73,positive,Really enjoyed playing this.,3,2023-03-14
+Video Game,74,positive,Fun and engaging gameplay.,3,2023-03-15
+Video Game,75,positive,Impressive visuals and smooth performance.,3,2023-03-16
+Video Game,76,positive,Fun and engaging gameplay.,4,2023-03-17
+Video Game,77,positive,Really enjoyed playing this.,4,2023-03-18
+Video Game,78,positive,Fun and engaging gameplay.,3,2023-03-19
+Video Game,79,positive,Impressive visuals and smooth performance.,3,2023-03-20
+Video Game,80,positive,Really enjoyed playing this.,4,2023-03-21
+Video Game,81,positive,Fun and engaging gameplay.,5,2023-03-22
+Video Game,82,positive,Impressive visuals and smooth performance.,5,2023-03-23
+Video Game,83,positive,Impressive visuals and smooth performance.,4,2023-03-24
+Video Game,84,positive,Fun and engaging gameplay.,5,2023-03-25
+Video Game,85,positive,Great experience overall.,5,2023-03-26
+Video Game,86,positive,Impressive visuals and smooth performance.,5,2023-03-27
+Video Game,87,positive,Really enjoyed playing this.,5,2023-03-28
+Video Game,88,positive,Great experience overall.,4,2023-03-29
+Video Game,89,positive,Fun and engaging gameplay.,5,2023-03-30
+Video Game,90,positive,Exceeded my expectations.,5,2023-03-31
+Video Game,91,positive,Really enjoyed playing this.,4,2023-04-01
+Video Game,92,positive,Great experience overall.,3,2023-04-02
+Video Game,93,positive,Impressive visuals and smooth performance.,3,2023-04-03
+Video Game,94,positive,Impressive visuals and smooth performance.,3,2023-04-04
+Video Game,95,positive,Really enjoyed playing this.,4,2023-04-05
+Video Game,96,positive,Great experience overall.,4,2023-04-06
+Video Game,97,positive,Great experience overall.,4,2023-04-07
+Video Game,98,positive,Exceeded my expectations.,5,2023-04-08
+Video Game,99,positive,Exceeded my expectations.,5,2023-04-09
+Video Game,100,positive,Impressive visuals and smooth performance.,4,2023-04-10
+Video Game,101,negative,Disappointing and unpolished.,0,2023-04-11
+Video Game,102,negative,Feels unfinished.,1,2023-04-12
+Video Game,103,negative,Didn't meet expectations.,0,2023-04-13
+Video Game,104,negative,Didn't meet expectations.,1,2023-04-14
+Video Game,105,negative,Poor controls and bugs everywhere.,1,2023-04-15
+Video Game,106,negative,Disappointing and unpolished.,2,2023-04-16
+Video Game,107,negative,Feels unfinished.,0,2023-04-17
+Video Game,108,negative,Disappointing and unpolished.,0,2023-04-18
+Video Game,109,negative,Disappointing and unpolished.,2,2023-04-19
+Video Game,110,negative,Feels unfinished.,1,2023-04-20
+Video Game,111,negative,Disappointing and unpolished.,2,2023-04-21
+Video Game,112,negative,Feels unfinished.,1,2023-04-22
+Video Game,113,negative,Poor controls and bugs everywhere.,0,2023-04-23
+Video Game,114,negative,Not enjoyable to play.,1,2023-04-24
+Video Game,115,negative,Feels unfinished.,0,2023-04-25
+Video Game,116,negative,Poor controls and bugs everywhere.,1,2023-04-26
+Video Game,117,negative,Disappointing and unpolished.,2,2023-04-27
+Video Game,118,negative,Feels unfinished.,0,2023-04-28
+Video Game,119,negative,Didn't meet expectations.,0,2023-04-29
+Video Game,120,negative,Poor controls and bugs everywhere.,1,2023-04-30
+Video Game,121,negative,Not enjoyable to play.,0,2023-05-01
+Video Game,122,negative,Poor controls and bugs everywhere.,1,2023-05-02
+Video Game,123,negative,Poor controls and bugs everywhere.,0,2023-05-03
+Video Game,124,negative,Feels unfinished.,2,2023-05-04
+Video Game,125,negative,Not enjoyable to play.,0,2023-05-05
+Video Game,126,negative,Feels unfinished.,2,2023-05-06
+Video Game,127,negative,Didn't meet expectations.,1,2023-05-07
+Video Game,128,negative,Didn't meet expectations.,2,2023-05-08
+Video Game,129,negative,Not enjoyable to play.,0,2023-05-09
+Video Game,130,negative,Poor controls and bugs everywhere.,0,2023-05-10
+Video Game,131,negative,Not enjoyable to play.,0,2023-05-11
+Video Game,132,negative,Not enjoyable to play.,2,2023-05-12
+Video Game,133,negative,Didn't meet expectations.,2,2023-05-13
+Video Game,134,negative,Not enjoyable to play.,1,2023-05-14
+Video Game,135,negative,Not enjoyable to play.,2,2023-05-15
+Video Game,136,negative,Didn't meet expectations.,2,2023-05-16
+Video Game,137,negative,Feels unfinished.,0,2023-05-17
+Video Game,138,negative,Feels unfinished.,1,2023-05-18
+Video Game,139,negative,Disappointing and unpolished.,2,2023-05-19
+Video Game,140,negative,Not enjoyable to play.,1,2023-05-20
+Video Game,141,negative,Feels unfinished.,2,2023-05-21
+Video Game,142,negative,Not enjoyable to play.,0,2023-05-22
+Video Game,143,negative,Poor controls and bugs everywhere.,0,2023-05-23
+Video Game,144,negative,Poor controls and bugs everywhere.,2,2023-05-24
+Video Game,145,negative,Not enjoyable to play.,2,2023-05-25
+Video Game,146,negative,Feels unfinished.,2,2023-05-26
+Video Game,147,negative,Feels unfinished.,0,2023-05-27
+Video Game,148,negative,Didn't meet expectations.,0,2023-05-28
+Video Game,149,negative,Poor controls and bugs everywhere.,2,2023-05-29
+Video Game,150,negative,Poor controls and bugs everywhere.,0,2023-05-30
+Video Game,151,negative,Not enjoyable to play.,2,2023-05-31
+Video Game,152,negative,Not enjoyable to play.,0,2023-06-01
+Video Game,153,negative,Feels unfinished.,0,2023-06-02
+Video Game,154,negative,Didn't meet expectations.,1,2023-06-03
+Video Game,155,negative,Not enjoyable to play.,0,2023-06-04
+Video Game,156,negative,Didn't meet expectations.,0,2023-06-05
+Video Game,157,negative,Disappointing and unpolished.,0,2023-06-06
+Video Game,158,negative,Feels unfinished.,1,2023-06-07
+Video Game,159,negative,Not enjoyable to play.,1,2023-06-08
+Video Game,160,negative,Feels unfinished.,2,2023-06-09
+Video Game,161,negative,Not enjoyable to play.,0,2023-06-10
+Video Game,162,negative,Poor controls and bugs everywhere.,0,2023-06-11
+Video Game,163,negative,Didn't meet expectations.,2,2023-06-12
+Video Game,164,negative,Not enjoyable to play.,1,2023-06-13
+Video Game,165,negative,Poor controls and bugs everywhere.,0,2023-06-14
+Video Game,166,negative,Disappointing and unpolished.,0,2023-06-15
+Video Game,167,negative,Disappointing and unpolished.,2,2023-06-16
+Video Game,168,negative,Poor controls and bugs everywhere.,1,2023-06-17
+Video Game,169,negative,Feels unfinished.,2,2023-06-18
+Video Game,170,negative,Poor controls and bugs everywhere.,2,2023-06-19
+Video Game,171,negative,Feels unfinished.,0,2023-06-20
+Video Game,172,negative,Disappointing and unpolished.,0,2023-06-21
+Video Game,173,negative,Poor controls and bugs everywhere.,0,2023-06-22
+Video Game,174,negative,Didn't meet expectations.,2,2023-06-23
+Video Game,175,negative,Feels unfinished.,0,2023-06-24
+Video Game,176,negative,Poor controls and bugs everywhere.,2,2023-06-25
+Video Game,177,negative,Not enjoyable to play.,0,2023-06-26
+Video Game,178,negative,Poor controls and bugs everywhere.,1,2023-06-27
+Video Game,179,negative,Poor controls and bugs everywhere.,1,2023-06-28
+Video Game,180,negative,Didn't meet expectations.,2,2023-06-29
+Video Game,181,negative,Poor controls and bugs everywhere.,2,2023-06-30
+Video Game,182,negative,Feels unfinished.,0,2023-07-01
+Video Game,183,negative,Disappointing and unpolished.,2,2023-07-02
+Video Game,184,negative,Feels unfinished.,1,2023-07-03
+Video Game,185,negative,Didn't meet expectations.,2,2023-07-04
+Video Game,186,negative,Feels unfinished.,2,2023-07-05
+Video Game,187,negative,Didn't meet expectations.,2,2023-07-06
+Video Game,188,negative,Feels unfinished.,2,2023-07-07
+Video Game,189,negative,Didn't meet expectations.,2,2023-07-08
+Video Game,190,negative,Not enjoyable to play.,2,2023-07-09
+Video Game,191,negative,Feels unfinished.,2,2023-07-10
+Video Game,192,negative,Disappointing and unpolished.,2,2023-07-11
+Video Game,193,negative,Poor controls and bugs everywhere.,0,2023-07-12
+Video Game,194,negative,Didn't meet expectations.,1,2023-07-13
+Video Game,195,negative,Poor controls and bugs everywhere.,1,2023-07-14
+Video Game,196,negative,Poor controls and bugs everywhere.,1,2023-07-15
+Video Game,197,negative,Disappointing and unpolished.,2,2023-07-16
+Video Game,198,negative,Poor controls and bugs everywhere.,0,2023-07-17
+Video Game,199,negative,Not enjoyable to play.,0,2023-07-18
+Video Game,200,negative,Didn't meet expectations.,2,2023-07-19

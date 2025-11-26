@@ -1,0 +1,201 @@
+product_name;opinion_id;sentiment;opinion;score;date
+JBL Flip 6 Speaker;1;positive;I love it!;5;December 29, 2024
+Razer BlackWidow V4;2;negative;Poor quality.;1;April 18, 2025
+Sony WH-1000XM5 Headphones;3;negative;Would not recommend.;1;June 24, 2025
+Oculus Quest 3;4;negative;Bad value.;1;February 25, 2025
+Dyson V15 Vacuum;5;positive;Superb experience.;4;September 28, 2025
+Samsung Galaxy S23;6;positive;Superb experience.;4;December 06, 2024
+Dell XPS 13 Laptop;7;negative;Not satisfied.;2;May 11, 2025
+Oculus Quest 3;8;positive;I love it!;5;December 04, 2024
+Dyson V15 Vacuum;9;positive;Would buy again.;4;July 18, 2025
+Instant Pot Duo;10;negative;Terrible experience.;2;November 29, 2024
+Asus ROG Strix Laptop;11;negative;Not satisfied.;2;February 09, 2025
+Asus ROG Strix Laptop;12;positive;Would buy again.;5;June 14, 2025
+Samsung Galaxy S23;13;negative;Would not recommend.;2;October 02, 2025
+Bose SoundLink Flex;14;positive;Fantastic value.;5;December 30, 2024
+Logitech MX Master 3S Mouse;15;positive;Highly recommend.;4;August 18, 2025
+Google Pixel 8;16;positive;Excellent product.;4;June 08, 2025
+Apple iPhone 15;17;negative;Not worth the price.;1;June 18, 2025
+Sony WH-1000XM5 Headphones;18;positive;Very satisfied.;4;May 05, 2025
+KitchenAid Stand Mixer;19;negative;Would not recommend.;1;December 31, 2024
+Logitech MX Master 3S Mouse;20;negative;Not worth the price.;1;July 14, 2025
+JBL Flip 6 Speaker;21;positive;Very satisfied.;5;September 16, 2025
+Dell XPS 13 Laptop;22;positive;Very satisfied.;4;July 19, 2025
+KitchenAid Stand Mixer;23;positive;Works perfectly.;5;June 29, 2025
+Google Pixel 8;24;positive;Works perfectly.;5;January 08, 2025
+KitchenAid Stand Mixer;25;negative;Not satisfied.;2;September 03, 2025
+Razer BlackWidow V4;26;negative;Would not recommend.;2;October 08, 2025
+JBL Flip 6 Speaker;27;negative;Not worth the price.;1;July 16, 2025
+Fitbit Charge 6;28;positive;Exceeded expectations.;5;December 04, 2024
+Oculus Quest 3;29;positive;Superb experience.;4;June 16, 2025
+Asus ROG Strix Laptop;30;positive;Superb experience.;5;May 30, 2025
+Sony WH-1000XM5 Headphones;31;negative;I regret buying this.;2;May 17, 2025
+Logitech MX Master 3S Mouse;32;positive;Fantastic value.;4;June 24, 2025
+Canon EOS R6 Camera;33;positive;Highly recommend.;4;April 24, 2025
+Microsoft Surface Pro 9;34;positive;Would buy again.;4;July 30, 2025
+Fitbit Charge 6;35;negative;Did not meet expectations.;1;January 10, 2025
+HP Envy 15;36;positive;Would buy again.;5;July 03, 2025
+JBL Flip 6 Speaker;37;positive;Excellent product.;5;November 26, 2025
+Fitbit Charge 6;38;negative;Terrible experience.;1;September 24, 2025
+Sony WH-1000XM5 Headphones;39;negative;Not satisfied.;2;January 13, 2025
+Sony WH-1000XM5 Headphones;40;positive;Very satisfied.;5;November 28, 2024
+JBL Flip 6 Speaker;41;positive;Would buy again.;5;September 13, 2025
+Bose SoundLink Flex;42;positive;Very satisfied.;4;July 29, 2025
+Apple iPhone 15;43;positive;Very satisfied.;4;October 16, 2025
+HP Envy 15;44;positive;Exceeded expectations.;5;November 10, 2025
+HP Envy 15;45;negative;Not worth the price.;1;November 06, 2025
+Oculus Quest 3;46;negative;Stopped working.;2;May 01, 2025
+Fitbit Charge 6;47;negative;Not worth the price.;2;September 01, 2025
+Dyson V15 Vacuum;48;negative;Poor quality.;1;December 28, 2024
+Nintendo Switch OLED;49;negative;Very disappointing.;1;June 10, 2025
+Fitbit Charge 6;50;positive;Would buy again.;4;October 05, 2025
+Samsung Galaxy S23;51;negative;Not worth the price.;2;July 04, 2025
+Fitbit Charge 6;52;negative;Poor quality.;2;September 17, 2025
+Apple iPhone 15;53;negative;Stopped working.;1;March 31, 2025
+HP Envy 15;54;negative;Would not recommend.;1;July 24, 2025
+Canon EOS R6 Camera;55;negative;I regret buying this.;2;April 27, 2025
+Dyson V15 Vacuum;56;negative;Not satisfied.;2;December 03, 2024
+Instant Pot Duo;57;positive;Excellent product.;4;February 10, 2025
+Sony WH-1000XM5 Headphones;58;negative;I regret buying this.;1;June 27, 2025
+Microsoft Surface Pro 9;59;positive;I love it!;5;February 16, 2025
+JBL Flip 6 Speaker;60;positive;Highly recommend.;5;January 09, 2025
+Microsoft Surface Pro 9;61;negative;Not satisfied.;2;September 05, 2025
+Dell XPS 13 Laptop;62;positive;Excellent product.;5;November 24, 2025
+Sony WH-1000XM5 Headphones;63;negative;Did not meet expectations.;1;March 16, 2025
+Nintendo Switch OLED;64;negative;Very disappointing.;1;January 22, 2025
+Samsung Galaxy S23;65;positive;Fantastic value.;5;May 09, 2025
+Sony WH-1000XM5 Headphones;66;positive;Superb experience.;4;December 23, 2024
+Razer BlackWidow V4;67;negative;Stopped working.;1;May 07, 2025
+Canon EOS R6 Camera;68;positive;Would buy again.;4;February 02, 2025
+Oculus Quest 3;69;positive;I love it!;4;April 05, 2025
+JBL Flip 6 Speaker;70;positive;Works perfectly.;5;March 13, 2025
+Asus ROG Strix Laptop;71;negative;Bad value.;2;August 07, 2025
+Google Pixel 8;72;negative;Poor quality.;2;October 01, 2025
+Razer BlackWidow V4;73;positive;Excellent product.;4;March 31, 2025
+Dyson V15 Vacuum;74;positive;Excellent product.;4;December 23, 2024
+Instant Pot Duo;75;negative;Stopped working.;2;June 21, 2025
+Google Pixel 8;76;positive;Exceeded expectations.;4;February 18, 2025
+Sony WH-1000XM5 Headphones;77;negative;Stopped working.;1;May 03, 2025
+KitchenAid Stand Mixer;78;positive;Would buy again.;5;March 18, 2025
+Dyson V15 Vacuum;79;positive;Great quality!;4;August 11, 2025
+Microsoft Surface Pro 9;80;positive;Highly recommend.;5;June 15, 2025
+Kindle Paperwhite;81;negative;Would not recommend.;1;August 24, 2025
+Bose SoundLink Flex;82;negative;Would not recommend.;2;September 22, 2025
+Kindle Paperwhite;83;positive;Would buy again.;4;March 03, 2025
+Asus ROG Strix Laptop;84;positive;Very satisfied.;5;December 28, 2024
+Dyson V15 Vacuum;85;positive;Works perfectly.;5;April 10, 2025
+Instant Pot Duo;86;negative;Would not recommend.;1;May 28, 2025
+Razer BlackWidow V4;87;negative;Did not meet expectations.;2;November 21, 2025
+Bose SoundLink Flex;88;negative;Bad value.;2;April 05, 2025
+Dyson V15 Vacuum;89;negative;Poor quality.;1;February 27, 2025
+Dell XPS 13 Laptop;90;positive;Fantastic value.;4;September 23, 2025
+Asus ROG Strix Laptop;91;negative;Not worth the price.;1;July 19, 2025
+Fitbit Charge 6;92;positive;Fantastic value.;4;December 31, 2024
+Dyson V15 Vacuum;93;negative;Did not meet expectations.;1;April 16, 2025
+Asus ROG Strix Laptop;94;negative;Bad value.;2;June 25, 2025
+Nintendo Switch OLED;95;positive;Works perfectly.;4;May 26, 2025
+Logitech MX Master 3S Mouse;96;negative;Stopped working.;2;May 18, 2025
+Razer BlackWidow V4;97;negative;Would not recommend.;1;November 21, 2025
+Logitech MX Master 3S Mouse;98;positive;I love it!;4;February 01, 2025
+JBL Flip 6 Speaker;99;negative;Terrible experience.;1;December 08, 2024
+Fitbit Charge 6;100;negative;I regret buying this.;2;November 17, 2025
+Microsoft Surface Pro 9;101;negative;Stopped working.;1;December 23, 2024
+Dell XPS 13 Laptop;102;positive;Fantastic value.;5;July 14, 2025
+Razer BlackWidow V4;103;negative;Not satisfied.;1;May 16, 2025
+Sony WH-1000XM5 Headphones;104;negative;Bad value.;2;September 05, 2025
+Instant Pot Duo;105;positive;Exceeded expectations.;5;June 10, 2025
+Kindle Paperwhite;106;negative;Not satisfied.;2;October 01, 2025
+Google Pixel 8;107;positive;Very satisfied.;5;May 12, 2025
+Instant Pot Duo;108;negative;Did not meet expectations.;1;February 04, 2025
+Dyson V15 Vacuum;109;negative;Very disappointing.;1;September 14, 2025
+Apple iPhone 15;110;positive;Highly recommend.;4;October 04, 2025
+JBL Flip 6 Speaker;111;positive;Very satisfied.;5;August 17, 2025
+Bose SoundLink Flex;112;negative;Very disappointing.;2;August 02, 2025
+KitchenAid Stand Mixer;113;positive;Superb experience.;4;March 01, 2025
+Samsung Galaxy S23;114;positive;Great quality!;4;November 30, 2024
+Kindle Paperwhite;115;negative;I regret buying this.;1;July 30, 2025
+Nintendo Switch OLED;116;positive;Fantastic value.;4;March 20, 2025
+Dyson V15 Vacuum;117;negative;Bad value.;1;March 13, 2025
+Instant Pot Duo;118;positive;Great quality!;5;December 30, 2024
+Oculus Quest 3;119;positive;Very satisfied.;4;May 05, 2025
+Sony WH-1000XM5 Headphones;120;positive;Fantastic value.;5;December 19, 2024
+Instant Pot Duo;121;positive;Superb experience.;5;January 27, 2025
+Microsoft Surface Pro 9;122;negative;Did not meet expectations.;1;July 11, 2025
+Bose SoundLink Flex;123;negative;Not worth the price.;2;May 18, 2025
+KitchenAid Stand Mixer;124;positive;Fantastic value.;4;September 08, 2025
+Asus ROG Strix Laptop;125;negative;Would not recommend.;1;April 21, 2025
+Nintendo Switch OLED;126;positive;I love it!;5;December 05, 2024
+Sony WH-1000XM5 Headphones;127;positive;Superb experience.;5;June 04, 2025
+Fitbit Charge 6;128;positive;I love it!;4;March 27, 2025
+Dell XPS 13 Laptop;129;positive;Exceeded expectations.;5;July 12, 2025
+Asus ROG Strix Laptop;130;positive;Highly recommend.;5;August 20, 2025
+Sony WH-1000XM5 Headphones;131;negative;Not satisfied.;1;May 04, 2025
+JBL Flip 6 Speaker;132;negative;Stopped working.;2;December 09, 2024
+Samsung Galaxy S23;133;negative;Not satisfied.;1;June 05, 2025
+Google Pixel 8;134;positive;Very satisfied.;4;June 02, 2025
+Apple iPhone 15;135;positive;Would buy again.;4;February 04, 2025
+Sony WH-1000XM5 Headphones;136;negative;Very disappointing.;2;January 07, 2025
+Nintendo Switch OLED;137;negative;Poor quality.;2;August 23, 2025
+JBL Flip 6 Speaker;138;positive;Very satisfied.;4;December 15, 2024
+Logitech MX Master 3S Mouse;139;positive;Excellent product.;5;September 16, 2025
+Dell XPS 13 Laptop;140;positive;Would buy again.;5;February 18, 2025
+Instant Pot Duo;141;negative;Terrible experience.;2;September 04, 2025
+JBL Flip 6 Speaker;142;positive;Great quality!;5;May 25, 2025
+Oculus Quest 3;143;positive;Works perfectly.;5;March 30, 2025
+Google Pixel 8;144;negative;Would not recommend.;2;August 10, 2025
+Bose SoundLink Flex;145;positive;Superb experience.;5;August 26, 2025
+Sony WH-1000XM5 Headphones;146;positive;Highly recommend.;4;November 28, 2024
+Dyson V15 Vacuum;147;positive;Exceeded expectations.;4;April 19, 2025
+Razer BlackWidow V4;148;negative;Not worth the price.;2;July 20, 2025
+Canon EOS R6 Camera;149;negative;Would not recommend.;1;January 16, 2025
+Sony WH-1000XM5 Headphones;150;negative;Poor quality.;2;February 04, 2025
+Canon EOS R6 Camera;151;positive;Highly recommend.;5;October 26, 2025
+Dyson V15 Vacuum;152;negative;Not satisfied.;1;September 03, 2025
+Nintendo Switch OLED;153;negative;Terrible experience.;2;July 15, 2025
+Samsung Galaxy S23;154;negative;Stopped working.;2;October 04, 2025
+Microsoft Surface Pro 9;155;negative;Terrible experience.;1;May 29, 2025
+Bose SoundLink Flex;156;positive;Fantastic value.;5;January 07, 2025
+Logitech MX Master 3S Mouse;157;negative;Poor quality.;1;June 24, 2025
+JBL Flip 6 Speaker;158;positive;Fantastic value.;4;January 13, 2025
+Instant Pot Duo;159;negative;Terrible experience.;1;March 19, 2025
+Kindle Paperwhite;160;negative;Very disappointing.;2;August 27, 2025
+Nintendo Switch OLED;161;positive;Excellent product.;5;May 29, 2025
+Razer BlackWidow V4;162;negative;Poor quality.;1;December 20, 2024
+Kindle Paperwhite;163;negative;Poor quality.;2;February 22, 2025
+Microsoft Surface Pro 9;164;positive;Would buy again.;5;February 02, 2025
+Razer BlackWidow V4;165;negative;Bad value.;1;April 16, 2025
+Instant Pot Duo;166;negative;Terrible experience.;1;February 23, 2025
+Bose SoundLink Flex;167;negative;Terrible experience.;2;October 24, 2025
+Microsoft Surface Pro 9;168;negative;Very disappointing.;2;May 16, 2025
+Dell XPS 13 Laptop;169;positive;Great quality!;4;March 26, 2025
+Asus ROG Strix Laptop;170;negative;Poor quality.;1;June 26, 2025
+HP Envy 15;171;negative;Did not meet expectations.;2;August 05, 2025
+KitchenAid Stand Mixer;172;positive;Great quality!;5;December 18, 2024
+Fitbit Charge 6;173;positive;Works perfectly.;4;April 08, 2025
+Dell XPS 13 Laptop;174;negative;Not satisfied.;1;June 17, 2025
+Oculus Quest 3;175;positive;Highly recommend.;4;March 10, 2025
+Samsung Galaxy S23;176;negative;Did not meet expectations.;1;March 21, 2025
+Sony WH-1000XM5 Headphones;177;positive;Very satisfied.;5;November 12, 2025
+Samsung Galaxy S23;178;negative;Did not meet expectations.;2;August 25, 2025
+Logitech MX Master 3S Mouse;179;positive;Fantastic value.;4;May 29, 2025
+Instant Pot Duo;180;negative;Not worth the price.;2;October 23, 2025
+JBL Flip 6 Speaker;181;negative;Did not meet expectations.;2;February 20, 2025
+Kindle Paperwhite;182;negative;Very disappointing.;2;December 02, 2024
+Instant Pot Duo;183;positive;Excellent product.;4;October 07, 2025
+Canon EOS R6 Camera;184;positive;Excellent product.;5;May 30, 2025
+HP Envy 15;185;positive;Excellent product.;4;June 20, 2025
+Samsung Galaxy S23;186;negative;Poor quality.;2;August 16, 2025
+Google Pixel 8;187;positive;Would buy again.;5;April 26, 2025
+Canon EOS R6 Camera;188;positive;Excellent product.;5;June 07, 2025
+Asus ROG Strix Laptop;189;negative;Stopped working.;2;September 23, 2025
+Canon EOS R6 Camera;190;negative;Terrible experience.;1;July 24, 2025
+Dyson V15 Vacuum;191;negative;Not satisfied.;2;October 19, 2025
+Google Pixel 8;192;positive;Great quality!;4;January 23, 2025
+Bose SoundLink Flex;193;negative;Very disappointing.;1;February 04, 2025
+Google Pixel 8;194;negative;Not satisfied.;1;May 16, 2025
+HP Envy 15;195;positive;Great quality!;4;October 14, 2025
+HP Envy 15;196;negative;Stopped working.;1;December 27, 2024
+Google Pixel 8;197;positive;Works perfectly.;4;May 30, 2025
+Bose SoundLink Flex;198;positive;Highly recommend.;4;March 24, 2025
+Sony WH-1000XM5 Headphones;199;positive;Very satisfied.;4;January 09, 2025
+Google Pixel 8;200;positive;Works perfectly.;5;September 04, 2025
